@@ -28,7 +28,9 @@ class FetchItems extends Command
         $progress->setMessage('Mendapatkan data ...');
         $progress->start();
         foreach ($items as $item) {
-            if (!file_exists("./data/items/$item.json")) {
+            $file = str_replace("'", '', $item);
+            $file = str_replace("/", '_', $file);
+            if (!file_exists("./data/items/$file.json")) {
                 exec("./terraguide.php get:items \"$item\"");
             }
             $progress->advance();
