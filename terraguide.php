@@ -3,6 +3,7 @@
 
 use App\Command\CheckItems;
 use App\Command\FetchDyes;
+use App\Command\FetchFish;
 use App\Command\FetchItems;
 use App\Command\GetItems;
 use App\Command\MakeItems;
@@ -22,6 +23,7 @@ $app->add(new GetItems());
 $app->addCommands([
   new FetchItems(),
   new FetchDyes(),
+  new FetchFish(),
 ]);
 
 // Check
