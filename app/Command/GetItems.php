@@ -22,13 +22,19 @@ class GetItems extends Command
         ->setHelp('Save json file contain items data by given items name.');
     }
 
-    private function getTitle(Crawler $node) : void
+    public function getCrawler(String $slug) : Crawler
+    {
+        $client = new Client();
+        return $client->request('GET', 'https://terraria.gamepedia.com/' . $slug);
+    }
+
+    public function getTitle(Crawler $node) : void
     {
         $text = $node->filter('h1#firstHeading')->first()->text();
         $this->json['title'] = $text;
     }
 
-    private function getInfo(Crawler $crawler) : void
+    public function getInfo(Crawler $crawler) : void
     {
         $main = $crawler->filter('#mw-content-text > div > p');
         $alt = $crawler->filter('#mw-content-text > div > div > p');
@@ -42,7 +48,7 @@ class GetItems extends Command
         $this->json['info'] = localify($this->json['info']);
     }
 
-    private function getStat(Crawler $crawler) : void
+    public function getStat(Crawler $crawler) : void
     {
         $table = $crawler->filter('.infobox.item table.stat')->each(function (Crawler $crawler) {
             return localify($crawler->outerHtml());
@@ -56,13 +62,15 @@ class GetItems extends Command
         $this->json['stat']['table'] = count($table) ? $table[0] : '';    
     }
 
-    public function getCraft(Crawler $crawler) : string
+    public function getCraft(Crawler $crawler, $mainFilter = '', $altFilter = '') : string
     {
+        $mainFilter = $mainFilter ?: '#mw-content-text > div > .crafts';
+        $altFilter = $altFilter ?: '.crafts';
         $this->json['craft'] = [];
 
-        $craftsDom = $crawler->filter('#mw-content-text > div > .crafts');
+        $craftsDom = $crawler->filter($mainFilter);
         $craftsDom = !$craftsDom->count()
-        ? $crawler->filter('.crafts')
+        ? $crawler->filter($altFilter)
         : $craftsDom;
 
         $crafts = $craftsDom->each(function (Crawler $node) {
@@ -108,6 +116,7 @@ class GetItems extends Command
 
             return [
                 'title' => strip_tags($title),
+                'info' => '',
                 'table' => $table
             ];
         });
@@ -121,7 +130,21 @@ class GetItems extends Command
         return implode(', ', $headline);
     }
 
-    private function saveJson($name)
+    public function customCraft($headline = [], $info = []) : string
+    {
+        $crafts = [];
+        foreach ($this->json['craft'] as $key => $craft) {
+            $crafts[] = [
+                'title' => count($headline) ? $headline[$key] : $craft['title'],
+                'info' => count($info) ? $info[$key] : $craft['info'],
+                'table' => $craft['table'],
+            ];
+        }
+        $this->json['craft'] = $crafts;
+        return implode(', ', $headline);
+    }
+
+    public function saveJson($name)
     {
         $json = json_encode($this->json, JSON_PRETTY_PRINT);
         return file_put_contents("./data/items/$name.json", $json);
@@ -131,11 +154,9 @@ class GetItems extends Command
     {
         $name = $input->getArgument('name');
         $slug = str_replace(' ', '_', urldecode($name));
-
-        $client = new Client();
         
         $output->writeln('Memuat data ...');
-        $crawler = $client->request('GET', 'https://terraria.gamepedia.com/' . $slug);
+        $crawler = $this->getCrawler($slug);
 
         $this->getTitle($crawler);
         $this->getInfo($crawler);
@@ -144,8 +165,8 @@ class GetItems extends Command
 
         $name = str_replace("'", '', $name);
         $name = str_replace("/", '_', $name);
-        $output->writeln("\n[<fg=green>Ok</>] $name.json ($headline)");
         $this->saveJson($name);
+        $output->writeln("\n[<fg=green>Ok</>] $name.json ($headline)");
 
         return Command::SUCCESS;
     }

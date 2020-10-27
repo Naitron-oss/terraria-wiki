@@ -2,6 +2,7 @@
 <?php
 
 use App\Command\CheckItems;
+use App\Command\FetchDyes;
 use App\Command\FetchItems;
 use App\Command\GetItems;
 use App\Command\MakeItems;
@@ -18,7 +19,10 @@ $app->add(new MakeItems());
 $app->add(new GetItems());
 
 // Fetch
-$app->add(new FetchItems());
+$app->addCommands([
+  new FetchItems(),
+  new FetchDyes(),
+]);
 
 // Check
 $app->add(new CheckItems());
