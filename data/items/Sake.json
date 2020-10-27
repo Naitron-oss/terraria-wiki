@@ -1,0 +1,9 @@
+{
+    "title": "Sake",
+    "info": "<b>Sake<\/b> is a potion that gives the player the Tipsy debuff, which increases melee damage, but lowers the player's defense. It lasts twice as long as Ale. It is purchased from the Traveling Merchant for <span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<\/span><\/span>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Sake.png\" alt=\"Sake\" title=\"Sake\" \/>\u2002<img src=\".\/imgs\/old Sake.png\" alt=\"old Sake\" title=\"old Sake\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 30\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 3.png\" alt=\"Stack digit 3\" title=\"Stack digit 3\" \/><img src=\".\/imgs\/Stack digit 0.png\" alt=\"Stack digit 0\" title=\"Stack digit 0\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><span class=\"nowrap tag\">Food<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>17 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Minor improvements to melee stats &amp; lowered defense<br>'Drink too much of this, and you become karate master.'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Silver Coin\" data-sort-value=\"100\"><span class=\"sc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">20 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

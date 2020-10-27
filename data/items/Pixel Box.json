@@ -1,0 +1,9 @@
+{
+    "title": "Pixel Box",
+    "info": "The <b>Pixel Box<\/b> is a currently unobtainable mechanism. It was originally supposed to be sold by the Mechanic.<small><sup><abbr style=\"color:#FF0000\" title=\"Talk:Pixel Box (page does not exist)\">Verify<\/abbr><\/sup><\/small>\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Pixel Box.png\" alt=\"Pixel Box\" title=\"Pixel Box\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Auto-use.png\" alt=\"Auto-use\" title=\"Auto-use\" \/><\/div><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Furniture<\/span><span class=\"nowrap tag\">Mechanism<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <span class=\"small-bold\">(1 wide\u00a0\u00d7\u00a01 high)<\/span><\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Separates wire paths<br>Lights off from horizontal signals<br>Lights on from crossed signals<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Copper Coins\" data-sort-value=\"40\"><span class=\"cc\">40<\/span><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

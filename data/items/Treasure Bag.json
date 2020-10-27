@@ -1,0 +1,9 @@
+{
+    "title": "Treasure Bag",
+    "info": "<b>Treasure Bags<\/b> are consumable items obtained in Expert Mode and Master Mode as a reward for defeating bosses. Its contents depend on the boss it comes from. It is opened by either right-clicking it inside the inventory or using it while it is in your hand. In multiplayer, each player that deals damage to the boss receives one Treasure Bag upon completion. Treasure Bags are client-side and will despawn upon exiting the world.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Treasure Bag.png\" alt=\"Treasure Bag\" title=\"Treasure Bag\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Grab bag<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i><img src=\".\/imgs\/Desktop version.png\" alt=\"Desktop version\" title=\"Desktop version\" \/> Right click to open \/<br><img src=\".\/imgs\/Mobile version.png\" alt=\"Mobile version\" title=\"Mobile version\" \/> Double tap to open<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">12*<\/s><img src=\".\/imgs\/Rarity level: Rainbow.png\" alt=\"Rarity level: Rainbow\" title=\"Rarity level: Rainbow\" \/><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

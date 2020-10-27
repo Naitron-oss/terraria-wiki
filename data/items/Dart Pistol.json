@@ -1,0 +1,9 @@
+{
+    "title": "Dart Pistol",
+    "info": "The <b>Dart Pistol<\/b> is a Hardmode ranged weapon that consumes darts as ammunition. It has a 1\/5 (20%) chance to be dropped by the Crimson Mimic. It is the Crimson\u00a0counterpart to the Corruption's Dart Rifle.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Dart Pistol.png\" alt=\"Dart Pistol\" title=\"Dart Pistol\" \/>\u2002<img src=\".\/imgs\/old Dart Pistol.png\" alt=\"old Dart Pistol\" title=\"old Dart Pistol\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Autofire.png\" alt=\"Autofire\" title=\"Autofire\" \/><\/div><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Uses ammo<\/th><td>Darts<\/td><\/tr><tr><th>Damage<\/th><td>33 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>3.5 <span class=\"knockback\">(Weak)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>22 <span class=\"usetime\">(Fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>13<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">05*<\/s><img src=\".\/imgs\/Rarity level: 5.png\" alt=\"Rarity level: 5\" title=\"Rarity level: 5\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

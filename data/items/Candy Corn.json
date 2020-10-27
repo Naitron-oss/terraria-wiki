@@ -1,0 +1,9 @@
+{
+    "title": "Candy Corn",
+    "info": "<b>Candy Corn<\/b> is Hardmode, post-Plantera ammunition for the Candy Corn Rifle. Candy Corn is dropped along with the Candy Corn Rifle by Pumpking, an event boss of the Pumpkin Moon. The Arms Dealer will also sell Candy Corn if the player has the Candy Corn Rifle in their inventory. Candy Corn is not a food item, and cannot be consumed.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Candy Corn.png\" alt=\"Candy Corn\" title=\"Candy Corn\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Ammunition<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>9 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>1.5 <span class=\"knockback\">(Extremely weak)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>4<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"5 Copper Coins\" data-sort-value=\"5\"><span class=\"cc\">5<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Copper Coin\" data-sort-value=\"1\"><span class=\"cc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">99 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

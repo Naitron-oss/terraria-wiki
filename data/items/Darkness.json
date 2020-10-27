@@ -1,0 +1,9 @@
+{
+    "title": "Darkness",
+    "info": "<b>Darkness<\/b> is a debuff that decreases the player's light vision. The effect is much like the Night Owl buff in reverse, dimming rather than amplifying provided light. Debuffed entities will also gain a bluish tint.\n",
+    "stat": {
+        "image": "",
+        "table": ""
+    },
+    "craft": []
+}

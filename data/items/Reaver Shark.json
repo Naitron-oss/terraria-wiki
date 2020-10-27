@@ -1,0 +1,9 @@
+{
+    "title": "Reaver Shark",
+    "info": "The <b>Reaver Shark<\/b> is a pickaxe available through fishing in the Ocean.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Reaver Shark.png\" alt=\"Reaver Shark\" title=\"Reaver Shark\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Autoswing.png\" alt=\"Autoswing\" title=\"Autoswing\" \/><\/div><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Tool<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>16 <span class=\"small-bold\">(Melee)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>3 <span class=\"knockback\">(Very weak)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>22 <span class=\"usetime\">(Fast)<\/span><\/td><\/tr><tr><th>Tool speed<\/th><td>13<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

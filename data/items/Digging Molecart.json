@@ -1,0 +1,9 @@
+{
+    "title": "Digging Molecart",
+    "info": "The <b>Digging Molecart<\/b> is a Minecart variant that automatically digs a tunnel and lays down Minecart Tracks. It is sold by the Zoologist for <span class=\"coin\" title=\"50 Gold Coins\" data-sort-value=\"500000\"><span class=\"gc\">50<\/span><\/span> once the Bestiary is 60% completed (314 entries).\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Digging Molecart.png\" alt=\"Digging Molecart\" title=\"Digging Molecart\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Mount summon<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Will dig through blocks and lay new track if carrying minecart tracks<br>Only digs when underground<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"50 Gold Coins\" data-sort-value=\"500000\"><span class=\"gc\">50<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

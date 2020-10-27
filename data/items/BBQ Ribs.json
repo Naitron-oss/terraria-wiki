@@ -1,0 +1,9 @@
+{
+    "title": "BBQ Ribs",
+    "info": "<b>BBQ Ribs<\/b> are a Hardmode food item dropped from various different Hardmode enemies within the Dungeon. This feast gives the player the Exquisitely Stuffed buff. This lasts for 24 minutes, but can be canceled at any time  by right-clicking the icon\u00a0(<img src=\".\/imgs\/Desktop version.png\" alt=\"Desktop version\" title=\"Desktop version\" \/>) or by double-tapping the buff icon\u00a0(<img src=\".\/imgs\/Mobile version.png\" alt=\"Mobile version\" title=\"Mobile version\" \/>).\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/BBQ Ribs.png\" alt=\"BBQ Ribs\" title=\"BBQ Ribs\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 30\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 3.png\" alt=\"Stack digit 3\" title=\"Stack digit 3\" \/><img src=\".\/imgs\/Stack digit 0.png\" alt=\"Stack digit 0\" title=\"Stack digit 0\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Food<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>17 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Major improvements to all stats<br>'Grilled to perfection!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">04*<\/s><img src=\".\/imgs\/Rarity level: 4.png\" alt=\"Rarity level: 4\" title=\"Rarity level: 4\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">10 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

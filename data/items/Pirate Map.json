@@ -1,0 +1,9 @@
+{
+    "title": "Pirate Map",
+    "info": "The <b>Pirate Map<\/b> is a Hardmode item used to summon a Pirate Invasion. It has a 1% (1\/100) chance of dropping from any enemy within or close to an Ocean during Hardmode.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Pirate Map.png\" alt=\"Pirate Map\" title=\"Pirate Map\" \/>\u2002<img src=\".\/imgs\/old Pirate Map.png\" alt=\"old Pirate Map\" title=\"old Pirate Map\" \/><\/li><\/ul><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Event summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>45 <span class=\"usetime\">(Very slow)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a pirate invasion<\/i><\/td><\/tr><tr><th>Max stack<\/th><td>20 <span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span> \/ 1 <span class=\"eico\"><img src=\".\/imgs\/Console Version.png\" alt=\"Console Version\" title=\"Console Version\" \/>\u2009<img src=\".\/imgs\/Old-gen console version.png\" alt=\"Old-gen console version\" title=\"Old-gen console version\" \/>\u2009<img src=\".\/imgs\/3DS version.png\" alt=\"3DS version\" title=\"3DS version\" \/><\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

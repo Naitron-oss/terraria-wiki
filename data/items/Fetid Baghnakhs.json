@@ -1,0 +1,9 @@
+{
+    "title": "Fetid Baghnakhs",
+    "info": "<b>Fetid Baghnakhs<\/b> are a Hardmode melee weapon with a short range but an exceptionally low use time. They have a 20% chance of being dropped by Crimson Mimics.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Fetid Baghnakhs.png\" alt=\"Fetid Baghnakhs\" title=\"Fetid Baghnakhs\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Autoswing.png\" alt=\"Autoswing\" title=\"Autoswing\" \/><\/div><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>60 <span class=\"small-bold\">(Melee)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>6 <span class=\"knockback\">(Average)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>8 <span class=\"usetime\">(Insanely fast)<\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">05*<\/s><img src=\".\/imgs\/Rarity level: 5.png\" alt=\"Rarity level: 5\" title=\"Rarity level: 5\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

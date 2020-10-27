@@ -1,0 +1,9 @@
+{
+    "title": "Red Potion",
+    "info": "The <b>Red Potion<\/b> is a debuff potion which inflicts the following debuffs for 1 hour \/ <abbr class=\"expert\" title=\"Expert Mode\">2 hours<\/abbr> \/ <abbr class=\"master\" title=\"Master Mode\">3 hours<\/abbr> on the player who consumed it:\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Red Potion.png\" alt=\"Red Potion\" title=\"Red Potion\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 30\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 3.png\" alt=\"Stack digit 3\" title=\"Stack digit 3\" \/><img src=\".\/imgs\/Stack digit 0.png\" alt=\"Stack digit 0\" title=\"Stack digit 0\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>17 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>'Only for those who are worthy'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">04*<\/s><img src=\".\/imgs\/Rarity level: 4.png\" alt=\"Rarity level: 4\" title=\"Rarity level: 4\" \/><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">10 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

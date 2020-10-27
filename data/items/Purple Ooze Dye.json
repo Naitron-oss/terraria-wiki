@@ -1,0 +1,9 @@
+{
+    "title": "Purple Ooze Dye",
+    "info": "<b>Purple Ooze Dye<\/b> is a dye that can be obtained from the Dye Trader after completing a Strange Plant Quest. When equipped, it gives the player a purple tone, with some parts of the dye distort and vary in different shades of purple at times.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Purple Ooze Dye.png\" alt=\"Purple Ooze Dye\" title=\"Purple Ooze Dye\" \/><\/li><li><img src=\".\/imgs\/Purple Ooze Dye equipped.png\" alt=\"Purple Ooze Dye equipped\" title=\"Purple Ooze Dye equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"75 Silver Coins\" data-sort-value=\"7500\"><span class=\"sc\">75<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

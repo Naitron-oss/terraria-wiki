@@ -1,0 +1,9 @@
+{
+    "title": "Dog License",
+    "info": "The <b>Dog License<\/b> is a consumable item purchased from the Zoologist for <span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<\/span><\/span> after completing 25% of the Bestiary. Using it allows a Town Dog to move into town, which happens at 4:30 AM the next day if there is a house available. It can only be used once per world, and the Zoologist will not sell more than one in the world.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Dog License.png\" alt=\"Dog License\" title=\"Dog License\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 20\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 2.png\" alt=\"Stack digit 2\" title=\"Stack digit 2\" \/><img src=\".\/imgs\/Stack digit 0.png\" alt=\"Stack digit 0\" title=\"Stack digit 0\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Use time<\/th><td>45 <span class=\"usetime\">(Very slow)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Use to let a dog arrive in town<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

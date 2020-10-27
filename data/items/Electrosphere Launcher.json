@@ -1,0 +1,9 @@
+{
+    "title": "Electrosphere Launcher",
+    "info": "The <b>Electrosphere Launcher<\/b> is a Hardmode, post-Golem launcher that fires rockets to the position of the cursor, then forms an energy-emanating ball of constant damage for approximately 8 seconds. An infinite number of electrospheres can be summoned, but they cannot overlap.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Electrosphere Launcher.png\" alt=\"Electrosphere Launcher\" title=\"Electrosphere Launcher\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Uses ammo<\/th><td>Rockets<\/td><\/tr><tr><th>Damage<\/th><td>40 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>2 <span class=\"knockback\">(Very weak)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>12 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>12<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">08*<\/s><img src=\".\/imgs\/Rarity level: 8.png\" alt=\"Rarity level: 8\" title=\"Rarity level: 8\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

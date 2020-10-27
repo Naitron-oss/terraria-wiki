@@ -1,0 +1,9 @@
+{
+    "title": "Moon Lord Legs",
+    "info": "The <b>Moon Lord Legs<\/b> are an Armor item for the pants slot. They have a <span class=\"chance\"><s>6.67*<\/s>1\/15 (6.67%)<\/span> chance to be found in chests in worlds generated with the secret seed 05162020.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Moon Lord Legs.png\" alt=\"Moon Lord Legs\" title=\"Moon Lord Legs\" \/><\/li><li><img src=\".\/imgs\/Moon Lord Legs equipped.png\" alt=\"Moon Lord Legs equipped\" title=\"Moon Lord Legs equipped\" \/><\/li><li><img src=\".\/imgs\/Moon Lord Legs equipped (female).png\" alt=\"Moon Lord Legs equipped (female)\" title=\"Moon Lord Legs equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><\/div><\/td><\/tr><tr><th>Defense<\/th><td>3<\/td><\/tr><tr><th>Body slot<\/th><td>Pants<\/td><\/tr><tr><th>Tooltip<\/th><td><i>Slightly increases mobility<br>'These might be Steve's'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Life Booster",
+    "info": "A <b>Life Booster<\/b> is one of the three power-ups occasionally dropped when striking an enemy while wearing a full set of Nebula armor. When picked up, it grants the <b>Life Nebula<\/b> buff which immediately increases the player's health regeneration rate by 3<span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span>\/5<span class=\"eico\"><img src=\".\/imgs\/Console Version.png\" alt=\"Console Version\" title=\"Console Version\" \/><\/span> health per second for 8 seconds. When a Life Booster is picked up while the Life Nebula buff is already in effect, it stacks with the previous Life Nebula, for up to 3 stacked boosts. Every 8 seconds, one stacked Life Booster expires, and the Life Nebula buff decreases by one level.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Life Booster.png\" alt=\"Life Booster\" title=\"Life Booster\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Pocket Mirror",
+    "info": "The <b>Pocket Mirror<\/b> is a Hardmode accessory that grants the player immunity to the Stoned debuff. It has a 1% \/ <abbr class=\"expert\" title=\"Expert Mode\">2<\/abbr>% (1\/100 \/ <abbr class=\"expert\" title=\"Expert Mode\">1\/50<\/abbr>) chance of being dropped by Medusa.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Pocket Mirror.png\" alt=\"Pocket Mirror\" title=\"Pocket Mirror\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Immunity to petrification<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

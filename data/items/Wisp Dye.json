@@ -1,0 +1,9 @@
+{
+    "title": "Wisp Dye",
+    "info": "<b>Wisp Dye<\/b> is a Hardmode, post-Plantera dye obtained from the Dye Trader when turning in a Strange Plant. It causes equipment it is applied to to gain a solid bright cyan texture with no animation. It is based off the light pet summoned by the Wisp in a Bottle.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Wisp Dye.png\" alt=\"Wisp Dye\" title=\"Wisp Dye\" \/><\/li><li><img src=\".\/imgs\/Wisp Dye equipped.png\" alt=\"Wisp Dye equipped\" title=\"Wisp Dye equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

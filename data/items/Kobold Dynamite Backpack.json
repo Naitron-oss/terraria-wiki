@@ -1,0 +1,9 @@
+{
+    "title": "Kobold Dynamite Backpack",
+    "info": "The <b>Kobold Dynamite Backpack<\/b> is an unimplemented item that resembles the dynamite backpack worn by Kobolds and Kobold Gliders. It only exists as an ID and image file in the game's code.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Kobold Dynamite Backpack.png\" alt=\"Kobold Dynamite Backpack\" title=\"Kobold Dynamite Backpack\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

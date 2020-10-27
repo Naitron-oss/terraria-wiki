@@ -1,0 +1,9 @@
+{
+    "title": "Cosmic Skateboard",
+    "info": "The <b>Cosmic Skateboard<\/b> is a pet-summoning item that has a <span class=\"chance\"><s>25*<\/s>1\/4 (25%)<\/span> chance of dropping from the Martian Saucer in Master Mode. It summons an <b>Alien Skater<\/b> that will follow the player around.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Cosmic Skateboard.png\" alt=\"Cosmic Skateboard\" title=\"Cosmic Skateboard\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Pet summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>20 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons an alien skater<br>'Kickflips are a lot easier in Zero-G!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">13*<\/s><img src=\".\/imgs\/Rarity level: Fiery red.png\" alt=\"Rarity level: Fiery red\" title=\"Rarity level: Fiery red\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

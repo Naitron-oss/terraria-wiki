@@ -1,0 +1,9 @@
+{
+    "title": "Bunny set",
+    "info": "The <b>Bunny set<\/b> is a vanity set composed of the <b>Bunny Tail<\/b> and <b>Bunny Ears<\/b>. It can be purchased from the Zoologist during a First Quarter Moon for <span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6<\/span><\/span>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Bunny set equipped (male).png\" alt=\"Bunny set equipped (male)\" title=\"Bunny set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Bunny set equipped (female).png\" alt=\"Bunny set equipped (female)\" title=\"Bunny set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

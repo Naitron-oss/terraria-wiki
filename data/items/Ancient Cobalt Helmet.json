@@ -1,0 +1,9 @@
+{
+    "title": "Ancient Cobalt armor",
+    "info": "<b>Ancient Cobalt armor<\/b> is an armor set obtained from Hornets and Man Eaters in the Underground Jungle. Each piece is dropped individually with a <span class=\"chance\"><s>0.33*<\/s>1\/300 (0.33%)<\/span> chance.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Ancient Cobalt armor equipped (male).png\" alt=\"Ancient Cobalt armor equipped (male)\" title=\"Ancient Cobalt armor equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Ancient Cobalt armor equipped (female).png\" alt=\"Ancient Cobalt armor equipped (female)\" title=\"Ancient Cobalt armor equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Defense<\/th><td>17<span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Set Bonus<\/th><td><i>16% reduced mana usage<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold 10 Silver Coins\" data-sort-value=\"21000\"><span class=\"gc\">2<\/span><span class=\"sc\">10<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

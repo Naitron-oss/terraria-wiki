@@ -1,0 +1,14 @@
+{
+    "title": "Pearlwood Sword",
+    "info": "The <b>Pearlwood Sword<\/b> is an alternate version of the Wooden Sword made using Pearlwood from the The Hallow. It can only be naturally obtained in Hardmode because the Hallow biome only emerges after Hardmode is triggered. While it is the best type of wooden sword, it is also the weakest Hardmode-exclusive sword.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Pearlwood Sword.png\" alt=\"Pearlwood Sword\" title=\"Pearlwood Sword\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>11 <span class=\"small-bold\">(Melee)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>5 <span class=\"knockback\">(Average)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>21 <span class=\"usetime\">(Fast)<\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": [
+        {
+            "title": "Recipes",
+            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Pearlwood Sword.png\" alt=\"Pearlwood Sword\" title=\"Pearlwood Sword\" \/><span><span>Pearlwood Sword<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Pearlwood.png\" alt=\"Pearlwood\" title=\"Pearlwood\" \/><span><span>Pearlwood<\/span><\/span><\/span> <span class=\"note-text\">(7)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Work Bench.png\" alt=\"Work Bench\" title=\"Work Bench\" \/><span><span>Work Bench<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+        }
+    ]
+}

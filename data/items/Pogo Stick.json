@@ -1,0 +1,9 @@
+{
+    "title": "Pogo Stick",
+    "info": "The <b>Pogo Stick<\/b> is a Mount sold by the Party Girl for <span class=\"coin\" title=\"25 Gold Coins\" data-sort-value=\"250000\"><span class=\"gc\">25<\/span><\/span>. Jumping again while in the air causes the player to do a front-flip. It doubles the speed at which the player falls, but does not grant immunity to Fall damage. It has a max speed of <abbr title=\"28 miles per hour (as measured by the Stopwatch item) or 20.53 tiles per second\" class=\"nowrap\">28 mph<\/abbr>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Pogo Stick.png\" alt=\"Pogo Stick\" title=\"Pogo Stick\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Mount summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>20 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a rideable pogo stick mount<br>Press Jump again in mid-air to do tricks!<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">08*<\/s><img src=\".\/imgs\/Rarity level: 8.png\" alt=\"Rarity level: 8\" title=\"Rarity level: 8\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"25 Gold Coins\" data-sort-value=\"250000\"><span class=\"gc\">25<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

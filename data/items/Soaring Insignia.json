@@ -1,0 +1,9 @@
+{
+    "title": "Soaring Insignia",
+    "info": "The <b>Soaring Insignia<\/b> is a Hardmode accessory dropped by the Empress of Light that grants increased jump height and flight ascent speed, similarly to the Frog Leg. It also grants unlimited flight time with Wings or Rocket Boots, and greatly increases the player's acceleration when flying, running(+2mph), or falling; the player will reach maximum speed much more easily, and will be able to stop, change directions and go from flying upwards to falling or vice versa very quickly.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Soaring Insignia.png\" alt=\"Soaring Insignia\" title=\"Soaring Insignia\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Grants infinite wing and rocket boot flight<br>Increases flight and jump mobility<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">12*<\/s><img src=\".\/imgs\/Rarity level: Rainbow.png\" alt=\"Rarity level: Rainbow\" title=\"Rarity level: Rainbow\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}
