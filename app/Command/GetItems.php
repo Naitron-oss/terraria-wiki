@@ -11,7 +11,7 @@ use Symfony\Component\DomCrawler\Crawler;
 
 class GetItems extends Command
 {
-    private $json = [];
+    public $json = [];
     protected static $defaultName = 'get:items';
 
     protected function configure()
@@ -166,7 +166,7 @@ class GetItems extends Command
         $name = str_replace("'", '', $name);
         $name = str_replace("/", '_', $name);
         $this->saveJson($name);
-        $output->writeln("\n[<fg=green>Ok</>] $name.json ($headline)");
+        $output->writeln("[<fg=green>Ok</>] $name.json ($headline)");
 
         return Command::SUCCESS;
     }

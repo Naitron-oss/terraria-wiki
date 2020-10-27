@@ -68,7 +68,7 @@ class FetchDyes extends Command
             $name = str_replace("'", '', $color);
             $name = str_replace("/", '_', $name);
             $get->saveJson("$name Dye");
-            $output->writeln("\n[<fg=green>Ok</>] $name.json ($headline)");
+            $output->writeln("[<fg=green>Ok</>] $name.json ($headline)");
         }
 
         return Command::SUCCESS;
