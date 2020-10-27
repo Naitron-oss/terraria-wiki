@@ -112,7 +112,7 @@ class GetItems extends Command
                 
             }
 
-            $table = localify($node->html());
+            $table = localify($node->outerHtml());
 
             return [
                 'title' => strip_tags($title),

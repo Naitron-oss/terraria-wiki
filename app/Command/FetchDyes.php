@@ -17,7 +17,7 @@ class FetchDyes extends Command
         ->setDescription('Fetch data of dye\'s type item');
     }
 
-    protected function execute(InputInterface $input, OutputInterface $output)
+    public function getColors() : array
     {
         $colors = ['Red', 'Orange', 'Yellow', 'Lime', 'Green', 'Teal', 'Cyan', 'Sky Blue', 'Blue', 'Purple', 'Violet', 'Pink', 'Black', 'Brown', 'Silver'];
 
@@ -37,8 +37,11 @@ class FetchDyes extends Command
             $compoundSilver[] = "$color and Silver Dye";
         }
 
-        $colors = [...$colors, 'Flame', 'Green Flame', 'Blue Flame', 'Yellow Gradient', 'Cyan Gradient', 'Violet Gradient', 'Rainbow', 'Intense Flame', 'Intense Green Flame', 'Intense Blue Flame', 'Intense Rainbow', ...$compoundBlack, ...$compoundSilver];
+        return [...$colors, 'Flame', 'Green Flame', 'Blue Flame', 'Yellow Gradient', 'Cyan Gradient', 'Violet Gradient', 'Rainbow', 'Intense Flame', 'Intense Green Flame', 'Intense Blue Flame', 'Intense Rainbow', ...$compoundBlack, ...$compoundSilver];
+    }
 
+    protected function execute(InputInterface $input, OutputInterface $output)
+    {
         $headline = ['Basic Dyes', 'Bright Dyes', 'Gradient Dyes', 'Compound Dye', 'Compound Dye', 'Strange Dyes', 'Lunar Dyes', 'Other Dyes', 'Unobtainable Dyes'];
     
         $info = [
@@ -61,7 +64,7 @@ class FetchDyes extends Command
         $get->getCraft($crawler, '.terraria.lined.align-center');
         $headline = $get->customCraft($headline, $info);
 
-        foreach ($colors as $color) {
+        foreach ($this->getColors() as $color) {
             $name = str_replace("'", '', $color);
             $name = str_replace("/", '_', $name);
             $get->saveJson("$name Dye");
