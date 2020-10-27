@@ -7,6 +7,7 @@ use App\Command\FetchFish;
 use App\Command\FetchItems;
 use App\Command\GetItems;
 use App\Command\MakeItems;
+use App\Command\MakePage;
 use Symfony\Component\Console\Application;
 
 require 'func.php';
@@ -14,7 +15,10 @@ require 'func.php';
 $app = new Application();
 
 // Make
-$app->add(new MakeItems());
+$app->addCommands([
+  new MakeItems(),
+  new MakePage(),
+]);
 
 // Get
 $app->add(new GetItems());
