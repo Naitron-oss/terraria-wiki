@@ -143,6 +143,7 @@ class GetItems extends Command
         $headline = $this->getCraft($crawler);
 
         $name = str_replace("'", '', $name);
+        $name = str_replace("/", '_', $name);
         $output->writeln("\n[<fg=green>Ok</>] $name.json ($headline)");
         $this->saveJson($name);
 
