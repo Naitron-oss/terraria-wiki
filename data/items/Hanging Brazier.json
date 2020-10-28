@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Hanging_Brazier",
     "title": "Hanging Brazier",
     "info": "The <b>Hanging Brazier<\/b> is a placeable decorative furniture item. It can only be placed on the ceiling, and breaking one of the blocks above it will drop the item. The Hanging Brazier is a valid light source for NPC housing.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Hanging Brazier.png\" alt=\"Hanging Brazier\" title=\"Hanging Brazier\" \/><span><span>Hanging Brazier<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Hanging Pot.png\" alt=\"Hanging Pot\" title=\"Hanging Pot\" \/><span><span>Hanging Pot<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Torch.png\" alt=\"Torch\" title=\"Torch\" \/><span><span>Torch<\/span><\/span><\/span> <span class=\"note-text\">(3)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\">By Hand<\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Hanging Brazier.png\" alt=\"Hanging Brazier\" title=\"Hanging Brazier\" \/><span><span>Hanging Brazier<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Hanging Pot.png\" alt=\"Hanging Pot\" title=\"Hanging Pot\" \/><span><span>Hanging Pot<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Torch.png\" alt=\"Torch\" title=\"Torch\" \/><span><span>Torch<\/span><\/span><\/span> <span class=\"note-text\">(3)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\">By Hand<\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

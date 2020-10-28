@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Marrow",
     "title": "Marrow",
     "info": "The <b>Marrow<\/b> is a Hardmode bow that has a <span class=\"chance\"><s>0.5*<\/s>1\/200 (0.5%)<\/span> chance to be dropped by Skeleton Archers. When fired, the next available arrow will instead be converted into a special <span class=\"i\"><img src=\".\/imgs\/Bone Arrow.png\" alt=\"Bone Arrow\" title=\"Bone Arrow\" \/><span><span title=\"Bone Arrow\">Bone Arrow<\/span><\/span><\/span>, which is not to be confused with the visually similar Bone Arrow item. These Bone Arrows fire at higher velocities than average arrows and suffer minimal drop along their course, giving the Marrow a much straighter shot than most bows. However, while the used arrow's base damage is accounted for, special properties of converted arrows are entirely lost.\n",
     "stat": {

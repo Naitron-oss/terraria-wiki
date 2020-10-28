@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Logic_Gate_(OR)",
     "title": "Logic Gates",
     "info": "A <b>Logic Gate<\/b> is a mechanism used to provide logic to wiring setups. Input is provided using a stack of Logic Gate Lamps placed on top of it. The logic gate turns on and off depending on its inputs, and emits a signal every time its state changes.\n",
     "stat": {

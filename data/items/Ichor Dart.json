@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Ichor_Dart",
     "title": "Ichor Dart",
     "info": "<b>Ichor Darts<\/b> are a type of dart used with the Blowgun, Blowpipe, Dart Pistol, and Dart Rifle. They inflict the Ichor debuff to enemies, and split into 2\u20135 darts shortly after firing. They can be crafted from Ichor by hand. They are the Crimson's counterpart to the Corruption's Cursed Darts.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Ichor Dart.png\" alt=\"Ichor Dart\" title=\"Ichor Dart\" \/><span><span>Ichor Dart<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop, Console, and Mobile versions.png\" alt=\"Desktop, Console, and Mobile versions\" title=\"Desktop, Console, and Mobile versions\" \/><\/span><\/span><\/span> <span class=\"note-text\">(100)<\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Ichor.png\" alt=\"Ichor\" title=\"Ichor\" \/><span><span>Ichor<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\">By Hand<\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Ichor Dart.png\" alt=\"Ichor Dart\" title=\"Ichor Dart\" \/><span><span>Ichor Dart<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop, Console, and Mobile versions.png\" alt=\"Desktop, Console, and Mobile versions\" title=\"Desktop, Console, and Mobile versions\" \/><\/span><\/span><\/span> <span class=\"note-text\">(100)<\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Ichor.png\" alt=\"Ichor\" title=\"Ichor\" \/><span><span>Ichor<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\">By Hand<\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

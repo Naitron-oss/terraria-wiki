@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Keg",
     "title": "Keg",
     "info": "The <b>Keg<\/b> is a minor crafting station used to brew Ale. It may be placed on top of solid blocks, Flat surface items, and platforms. Though it's normally crafted, it can also sometimes be found in underground cabins.\n",
     "stat": {
@@ -8,11 +9,13 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Keg.png\" alt=\"Keg\" title=\"Keg\" \/><span><span>Keg<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Any Wood.png\" alt=\"Any Wood\" title=\"Any Wood\" \/><span><span>Any Wood<\/span><\/span><\/span> <span class=\"note-text\">(14)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Sawmill.png\" alt=\"Sawmill\" title=\"Sawmill\" \/><span><span>Sawmill<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Keg.png\" alt=\"Keg\" title=\"Keg\" \/><span><span>Keg<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Any Wood.png\" alt=\"Any Wood\" title=\"Any Wood\" \/><span><span>Any Wood<\/span><\/span><\/span> <span class=\"note-text\">(14)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Sawmill.png\" alt=\"Sawmill\" title=\"Sawmill\" \/><span><span>Sawmill<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         },
         {
             "title": "Keg",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><caption><span class=\"i\"><img src=\".\/imgs\/Keg.png\" alt=\"Keg\" title=\"Keg\" \/><span><span>Keg<\/span><\/span><\/span><\/caption><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Ale.png\" alt=\"Ale\" title=\"Ale\" \/><span><span>Ale<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Mug.png\" alt=\"Mug\" title=\"Mug\" \/><span><span>Mug<\/span><\/span><\/span><\/li><\/ul><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><caption><span class=\"i\"><img src=\".\/imgs\/Keg.png\" alt=\"Keg\" title=\"Keg\" \/><span><span>Keg<\/span><\/span><\/span><\/caption><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Ale.png\" alt=\"Ale\" title=\"Ale\" \/><span><span>Ale<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Mug.png\" alt=\"Mug\" title=\"Mug\" \/><span><span>Mug<\/span><\/span><\/span><\/li><\/ul><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

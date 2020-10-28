@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Tin_Bow",
     "title": "Tin Bow",
     "info": "The <b>Tin Bow<\/b> is a low tier bow crafted solely using Tin Bars. Its sole purpose is to fire arrows from a distance to hit enemies.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Tin Bow.png\" alt=\"Tin Bow\" title=\"Tin Bow\" \/><span><span>Tin Bow<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Tin Bar.png\" alt=\"Tin Bar\" title=\"Tin Bar\" \/><span><span>Tin Bar<\/span><\/span><\/span> <span class=\"note-text\">(7)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Iron Anvil.png\" alt=\"Iron Anvil\" title=\"Iron Anvil\" \/><span><span>Iron Anvil<\/span><\/span><\/span><br><i><b>or<\/b><\/i><br><span class=\"i\"><img src=\".\/imgs\/Lead Anvil.png\" alt=\"Lead Anvil\" title=\"Lead Anvil\" \/><span><span>Lead Anvil<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Tin Bow.png\" alt=\"Tin Bow\" title=\"Tin Bow\" \/><span><span>Tin Bow<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Tin Bar.png\" alt=\"Tin Bar\" title=\"Tin Bar\" \/><span><span>Tin Bar<\/span><\/span><\/span> <span class=\"note-text\">(7)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Iron Anvil.png\" alt=\"Iron Anvil\" title=\"Iron Anvil\" \/><span><span>Iron Anvil<\/span><\/span><\/span><br><i><b>or<\/b><\/i><br><span class=\"i\"><img src=\".\/imgs\/Lead Anvil.png\" alt=\"Lead Anvil\" title=\"Lead Anvil\" \/><span><span>Lead Anvil<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

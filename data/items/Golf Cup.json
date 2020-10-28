@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Golf_Cup",
     "title": "Golf Cup",
     "info": "The <b>Golf Cup<\/b> is a block and activation mechanism used in Golf. It can be purchased from the Golfer for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span>. When a Golf Ball enters the cup, the golf ball projectile is removed from the world, the cup emits a wire signal, and an announcement (in the chat) will share how many strokes the player took between placing the ball, hitting it and reaching the cup.\n",
     "stat": {

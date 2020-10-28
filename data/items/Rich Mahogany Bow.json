@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Rich_Mahogany_Bow",
     "title": "Rich Mahogany Bow",
     "info": "The <b>Rich Mahogany Bow<\/b> is a bow that is stronger than a Wooden Bow, but weaker than an Ebonwood Bow\/Shadewood Bow.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Rich Mahogany Bow.png\" alt=\"Rich Mahogany Bow\" title=\"Rich Mahogany Bow\" \/><span><span>Rich Mahogany Bow<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Rich Mahogany.png\" alt=\"Rich Mahogany\" title=\"Rich Mahogany\" \/><span><span>Rich Mahogany<\/span><\/span><\/span> <span class=\"note-text\">(10)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Work Bench.png\" alt=\"Work Bench\" title=\"Work Bench\" \/><span><span>Work Bench<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Rich Mahogany Bow.png\" alt=\"Rich Mahogany Bow\" title=\"Rich Mahogany Bow\" \/><span><span>Rich Mahogany Bow<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Rich Mahogany.png\" alt=\"Rich Mahogany\" title=\"Rich Mahogany\" \/><span><span>Rich Mahogany<\/span><\/span><\/span> <span class=\"note-text\">(10)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Work Bench.png\" alt=\"Work Bench\" title=\"Work Bench\" \/><span><span>Work Bench<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }
