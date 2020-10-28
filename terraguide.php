@@ -7,6 +7,7 @@ use App\Command\Items\Get as ItemsGet;
 use App\Command\Items\Make as ItemsMake;
 use App\Command\Items\FetchDyes;
 use App\Command\Items\FetchFish;
+use App\Command\Images\Get as ImagesGet;
 use App\Command\MakePage;
 use Symfony\Component\Console\Application;
 
@@ -21,7 +22,10 @@ $app->addCommands([
 ]);
 
 // Get
-$app->add(new ItemsGet());
+$app->addCommands([
+  new ItemsGet(),
+  new ImagesGet(),
+]);
 
 // Fetch
 $app->addCommands([
