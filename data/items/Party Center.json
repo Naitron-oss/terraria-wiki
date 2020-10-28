@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Party_Center",
     "title": "Party Center",
     "info": "The <b>Party Center<\/b> is a novelty mechanism furniture item bought from the Party Girl NPC for <span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<\/span><\/span>. Pressing the <span class=\"key\" style=\"display:inline-block; white-space:nowrap;\"><kbd style=\"color:black;border: 1px solid rgb(170, 170, 170);box-shadow: 0.1em 0.2em 0.2em rgb(221, 221, 221);border-radius: .2em;background-image: linear-gradient(to bottom, rgb(238, 238, 238), rgb(249, 249, 249), rgb(238, 238, 238));background-color: rgb(249, 249, 249);padding: 0.1em 0.4em 0.2em 0.3em;margin-right:2px;font-size:85%;font-family:inherit;font-style:normal;\"><span title=\"Right Click (PC default): Activate environment object or talk to NPC\"><span style=\"font-size:120%;\">\u26b7<\/span> Open \/ Activate<\/span><\/kbd><\/span> button on a Party Center toggles the Party event.\n",
     "stat": {

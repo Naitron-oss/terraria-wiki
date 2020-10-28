@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Booster_Track",
     "title": "Booster Track",
     "info": "A <b>Booster Track<\/b> can be placed as a section of Minecart Track to automatically boost the speed of a Minecart that rides over it. The direction of the boost is indicated by the animated red arrow it displays, which can be toggled using a Hammer or Wire. The Booster Track is purchased from the Mechanic for <span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span>.\nEach booster will increase speed by 20mph, regardless of minecart variant.\n",
     "stat": {

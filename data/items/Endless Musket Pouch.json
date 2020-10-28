@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Endless_Musket_Pouch",
     "title": "Endless Musket Pouch",
     "info": "The <b>Endless Musket Pouch<\/b> is a Hardmode item that acts as ammunition, and can be placed in the ammo slots in the player's inventory. While in the user's inventory, it acts as a single Musket Ball that can be fired from any appropriate gun without being depleted. Guns with unique shot types will fire their special shots indefinitely, including those such as the Uzi that specifically require Musket Balls for their specialized shot types to work.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Endless Musket Pouch.png\" alt=\"Endless Musket Pouch\" title=\"Endless Musket Pouch\" \/><span><span>Endless Musket Pouch<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop, Console, and Mobile versions.png\" alt=\"Desktop, Console, and Mobile versions\" title=\"Desktop, Console, and Mobile versions\" \/><\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Musket Ball.png\" alt=\"Musket Ball\" title=\"Musket Ball\" \/><span><span>Musket Ball<\/span><\/span><\/span> <span class=\"note-text\">(3996)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Crystal Ball.png\" alt=\"Crystal Ball\" title=\"Crystal Ball\" \/><span><span>Crystal Ball<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Endless Musket Pouch.png\" alt=\"Endless Musket Pouch\" title=\"Endless Musket Pouch\" \/><span><span>Endless Musket Pouch<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop, Console, and Mobile versions.png\" alt=\"Desktop, Console, and Mobile versions\" title=\"Desktop, Console, and Mobile versions\" \/><\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Musket Ball.png\" alt=\"Musket Ball\" title=\"Musket Ball\" \/><span><span>Musket Ball<\/span><\/span><\/span> <span class=\"note-text\">(3996)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Crystal Ball.png\" alt=\"Crystal Ball\" title=\"Crystal Ball\" \/><span><span>Crystal Ball<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

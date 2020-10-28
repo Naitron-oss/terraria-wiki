@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Cactus_Sword",
     "title": "Cactus Sword",
     "info": "The <b>Cactus Sword<\/b> is an early game sword. It deals more damage compared to early weapons (dealing the same damage as the Copper Broadsword) and it has more range. It appears much more robust and dangerous compared to wooden and other early-game swords, and can be very useful until one finds Silver or Tungsten to forge a more deadly sword.\nThis weapon gains 22% damage with the ruthless modifier instead of the normal 18%.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Recipes",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Cactus Sword.png\" alt=\"Cactus Sword\" title=\"Cactus Sword\" \/><span><span>Cactus Sword<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Cactus.png\" alt=\"Cactus\" title=\"Cactus\" \/><span><span>Cactus<\/span><\/span><\/span> <span class=\"note-text\">(10)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Work Bench.png\" alt=\"Work Bench\" title=\"Work Bench\" \/><span><span>Work Bench<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Cactus Sword.png\" alt=\"Cactus Sword\" title=\"Cactus Sword\" \/><span><span>Cactus Sword<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Cactus.png\" alt=\"Cactus\" title=\"Cactus\" \/><span><span>Cactus<\/span><\/span><\/span> <span class=\"note-text\">(10)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Work Bench.png\" alt=\"Work Bench\" title=\"Work Bench\" \/><span><span>Work Bench<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

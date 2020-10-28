@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Logic_Gate_Lamp_(Off)",
     "title": "Logic Gate Lamps",
     "info": "The <b>Logic Gate Lamp<\/b> is a mechanism that provides inputs for Logic Gates. Its state is toggled via a wired Switch, another Logic Gate, or other triggering mechanism. The particular Logic Gate attached determines whether to activate other wired mechanisms based on the states of any attached Logic Gate Lamps.\n",
     "stat": {

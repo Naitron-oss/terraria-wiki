@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Cannonball",
     "title": "Cannonball",
     "info": "<b>Cannonballs<\/b> are ammunition used by the Cannon. While held by the player or selected in the hotbar, using <span class=\"key\" style=\"display:inline-block; white-space:nowrap;\"><kbd style=\"color:black;border: 1px solid rgb(170, 170, 170);box-shadow: 0.1em 0.2em 0.2em rgb(221, 221, 221);border-radius: .2em;background-image: linear-gradient(to bottom, rgb(238, 238, 238), rgb(249, 249, 249), rgb(238, 238, 238));background-color: rgb(249, 249, 249);padding: 0.1em 0.4em 0.2em 0.3em;margin-right:2px;font-size:85%;font-family:inherit;font-style:normal;\"><span title=\"Left Click (PC default): Use held item or attack\"><span style=\"font-size:120%;\">\u2692<\/span> Use \/ Attack<\/span><\/kbd><\/span> on a cannon will fire one shot from the cannon's current angle. Cannonballs can also be fired from in the inventory by clicking on the cannon while holding the Auto Select key. On contact with a solid block, a Cannonball will explode, dealing damage in a small radius but leaving placed blocks intact.\n",
     "stat": {

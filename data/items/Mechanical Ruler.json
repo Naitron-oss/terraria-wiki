@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Mechanical_Ruler",
     "title": "Mechanical Ruler",
     "info": "The <b>Mechanical Ruler<\/b> is an accessory purchased from the Mechanic for <span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span>. While equipped, it draws a semi-transparent grid overlay on the screen, making individual block distances much clearer. This grid fades out when the player begins moving and returns once movement stops. The row and column of the block the mouse is hovering over are also highlighted in red, drawing a cross on the screen with the cursor at its center.\n",
     "stat": {

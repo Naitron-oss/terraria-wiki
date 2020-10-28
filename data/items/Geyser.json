@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Geyser",
     "title": "Geyser",
     "info": "<b>Geysers<\/b> are traps that spew a vertical stream of fire when triggered with wire on the <img src=\".\/imgs\/Console version.png\" alt=\"Console version\" title=\"Console version\" \/>\u00a0Console version. On the <img src=\".\/imgs\/Desktop version.png\" alt=\"Desktop version\" title=\"Desktop version\" \/>\u00a0Desktop version and <img src=\".\/imgs\/Mobile version.png\" alt=\"Mobile version\" title=\"Mobile version\" \/>\u00a0Mobile version they will activate if a player (not an enemy) touches them, and will generate on worldgen without pressure plates or wires (but they can still be triggered by wires as a player-placed trap). They consume no ammunition, their output being limited only by a cooldown period of ~3.33 (3 1\/3) seconds. Geyser streams extend approximately 20 tiles up or down, depending on placement. They are found naturally-placed in random areas that are deep enough to generate lava, including the Underworld and deeper Cavern areas, wired to Pressure Plates.\n",
     "stat": {

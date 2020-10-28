@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Wooden_Boomerang",
     "title": "Wooden Boomerang",
     "info": "The <b>Wooden Boomerang<\/b> is the lowest tier of boomerang. It is found in Wooden Chests located on the surface and within the underground layer.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Used In",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Enchanted Boomerang.png\" alt=\"Enchanted Boomerang\" title=\"Enchanted Boomerang\" \/><span><span>Enchanted Boomerang<\/span><\/span><\/span> (<img src=\".\/imgs\/Desktop version.png\" alt=\"Desktop version\" title=\"Desktop version\" \/>\u2009<img src=\".\/imgs\/Mobile version.png\" alt=\"Mobile version\" title=\"Mobile version\" \/>)<\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Wooden Boomerang.png\" alt=\"Wooden Boomerang\" title=\"Wooden Boomerang\" \/><span><span>Wooden Boomerang<\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Fallen Star.png\" alt=\"Fallen Star\" title=\"Fallen Star\" \/><span><span>Fallen Star<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\">By Hand<\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Enchanted Boomerang.png\" alt=\"Enchanted Boomerang\" title=\"Enchanted Boomerang\" \/><span><span>Enchanted Boomerang<\/span><\/span><\/span> (<img src=\".\/imgs\/Desktop version.png\" alt=\"Desktop version\" title=\"Desktop version\" \/>\u2009<img src=\".\/imgs\/Mobile version.png\" alt=\"Mobile version\" title=\"Mobile version\" \/>)<\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Wooden Boomerang.png\" alt=\"Wooden Boomerang\" title=\"Wooden Boomerang\" \/><span><span>Wooden Boomerang<\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Fallen Star.png\" alt=\"Fallen Star\" title=\"Fallen Star\" \/><span><span>Fallen Star<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\">By Hand<\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

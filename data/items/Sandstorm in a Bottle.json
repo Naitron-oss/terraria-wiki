@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Sandstorm_in_a_Bottle",
     "title": "Sandstorm in a Bottle",
     "info": "The <b>Sandstorm in a Bottle<\/b> is an accessory found only inside Gold Chests within Pyramids. It is similar to the Cloud in a Bottle, providing a double-jump that allows for some extra height, but instead of a cloud beneath the feet, a sand jet appears and the character visually spins as they ascend on that jet.\n",
     "stat": {
@@ -8,7 +9,8 @@
     "craft": [
         {
             "title": "Used in",
-            "table": "<div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Sandstorm in a Balloon.png\" alt=\"Sandstorm in a Balloon\" title=\"Sandstorm in a Balloon\" \/><span><span>Sandstorm in a Balloon<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Sandstorm in a Bottle.png\" alt=\"Sandstorm in a Bottle\" title=\"Sandstorm in a Bottle\" \/><span><span>Sandstorm in a Bottle<\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Shiny Red Balloon.png\" alt=\"Shiny Red Balloon\" title=\"Shiny Red Balloon\" \/><span><span>Shiny Red Balloon<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Tinkerers Workshop.png\" alt=\"Tinkerers Workshop\" title=\"Tinkerers Workshop\" \/><span><span>Tinkerer's Workshop<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div>"
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Sandstorm in a Balloon.png\" alt=\"Sandstorm in a Balloon\" title=\"Sandstorm in a Balloon\" \/><span><span>Sandstorm in a Balloon<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Sandstorm in a Bottle.png\" alt=\"Sandstorm in a Bottle\" title=\"Sandstorm in a Bottle\" \/><span><span>Sandstorm in a Bottle<\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Shiny Red Balloon.png\" alt=\"Shiny Red Balloon\" title=\"Shiny Red Balloon\" \/><span><span>Shiny Red Balloon<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Tinkerers Workshop.png\" alt=\"Tinkerers Workshop\" title=\"Tinkerers Workshop\" \/><span><span>Tinkerer's Workshop<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
         }
     ]
 }

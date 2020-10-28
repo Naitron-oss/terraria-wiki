@@ -1,4 +1,5 @@
 {
+    "link": "https:\/\/terraria.gamepedia.com\/Snowball_Launcher",
     "title": "Snowball Launcher",
     "info": "The <b>Snowball Launcher<\/b> is a pre-Hardmode placeable weapon which uses Snowballs as ammunition. Once placed, clicking <span class=\"key\" style=\"display:inline-block; white-space:nowrap;\"><kbd style=\"color:black;border: 1px solid rgb(170, 170, 170);box-shadow: 0.1em 0.2em 0.2em rgb(221, 221, 221);border-radius: .2em;background-image: linear-gradient(to bottom, rgb(238, 238, 238), rgb(249, 249, 249), rgb(238, 238, 238));background-color: rgb(249, 249, 249);padding: 0.1em 0.4em 0.2em 0.3em;margin-right:2px;font-size:85%;font-family:inherit;font-style:normal;\"><span title=\"Left Click (PC default): Use held item or attack\"><span style=\"font-size:120%;\">\u2692<\/span> Use \/ Attack<\/span><\/kbd><\/span> on it will fire a single Snowball and holding the key will release a rapid fire of snowballs, with a spread of roughly thirty degrees. It can be dropped from the Snow Flinx in the Ice biome with a chance of 1\/150 (0.67%).\n",
     "stat": {
