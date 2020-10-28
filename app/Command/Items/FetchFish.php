@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Command;
+namespace App\Command\Items;
 
 use app\Command\GetItems;
 use Goutte\Client;

@@ -1,6 +1,6 @@
 <?php
 
-namespace app\Command;
+namespace App\Command\Items;
 
 use Goutte\Client;
 use Symfony\Component\Console\Command\Command;
@@ -9,7 +9,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\DomCrawler\Crawler;
 
-class GetItems extends Command
+class Get extends Command
 {
     public $json = [];
     protected static $defaultName = 'get:items';

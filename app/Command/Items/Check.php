@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Command;
+namespace App\Command\Items;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class CheckItems extends Command
+class Check extends Command
 {
     protected static $defaultName = 'check:items';
 

@@ -1,12 +1,12 @@
 #!/usr/bin/env php
 <?php
 
-use App\Command\CheckItems;
-use App\Command\FetchDyes;
-use App\Command\FetchFish;
-use App\Command\FetchItems;
-use App\Command\GetItems;
-use App\Command\MakeItems;
+use App\Command\Items\Check as ItemsCheck;
+use App\Command\Items\Fetch as ItemsFetch;
+use App\Command\Items\Get as ItemsGet;
+use App\Command\Items\Make as ItemsMake;
+use App\Command\Items\FetchDyes;
+use App\Command\Items\FetchFish;
 use App\Command\MakePage;
 use Symfony\Component\Console\Application;
 
@@ -16,21 +16,21 @@ $app = new Application();
 
 // Make
 $app->addCommands([
-  new MakeItems(),
+  new ItemsMake(),
   new MakePage(),
 ]);
 
 // Get
-$app->add(new GetItems());
+$app->add(new ItemsGet());
 
 // Fetch
 $app->addCommands([
-  new FetchItems(),
+  new ItemsFetch(),
   new FetchDyes(),
   new FetchFish(),
 ]);
 
 // Check
-$app->add(new CheckItems());
+$app->add(new ItemsCheck());
 
 $app->run();
