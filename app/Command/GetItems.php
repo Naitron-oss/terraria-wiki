@@ -24,8 +24,10 @@ class GetItems extends Command
 
     public function getCrawler(String $slug) : Crawler
     {
+        $link = 'https://terraria.gamepedia.com/' . $slug;
+        $this->json['link'] = $link;
         $client = new Client();
-        return $client->request('GET', 'https://terraria.gamepedia.com/' . $slug);
+        return $client->request('GET', $link);
     }
 
     public function getTitle(Crawler $node) : void
