@@ -16,7 +16,7 @@ function handle_image($match) {
     $src = str_replace(array_keys($replace), array_values($replace), $match[2]);
             
     $img = '<img';
-    $img = $img." src=\"./imgs/$src.png\"";
+    $img = $img." src=\"./data/images/$src.png\"";
     $img = $img." alt=\"$src\"";
     $img = $img." title=\"$src\"";
     $img = $img.' />';

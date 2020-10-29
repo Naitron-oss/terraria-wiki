@@ -2,46 +2,40 @@
 
 namespace App\Command\Items;
 
-use app\Command\GetItems;
+use app\Command\Items\Get;
+use Goutte\Client;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
+use Symfony\Component\DomCrawler\Crawler;
 
 class FetchDyes extends Command
 {
     protected static $defaultName = 'fetch:dyes';
 
     public function configure()
-    {
+    {   
         $this
         ->setDescription('Fetch data of dye\'s type item');
     }
 
-    public function getColors() : array
+    public function getColors(Crawler $crawler) : array
     {
-        $colors = ['Red', 'Orange', 'Yellow', 'Lime', 'Green', 'Teal', 'Cyan', 'Sky Blue', 'Blue', 'Purple', 'Violet', 'Pink', 'Black', 'Brown', 'Silver'];
-
-        $bright = [];
-        foreach ($colors as $color) {
-            $bright[] = "Bright $color";
+        $list = $crawler->filter('table tr td:nth-child(2) span > span > span')->each(function (Crawler $node) {
+            return $node->extract(['class'])[0] == null ? $node->text() : '';
+        });
+        
+        $colors = [];
+        foreach ($list as $dye) {
+            if ($dye) $colors[] = $dye;
         }
 
-        $compoundBlack = [];
-        foreach ([...$colors, 'Flame', 'Green Flame', 'Blue Flame'] as $color) {
-            $compoundBlack[] = "$color and Black Dye";
-        }
-
-        $compoundSilver = [];
-        foreach ([...$colors, 'Flame', 'Green Flame', 'Blue Flame'] as $color) {
-            $color = $color == 'Silver' ? 'Black' : $color;
-            $compoundSilver[] = "$color and Silver Dye";
-        }
-
-        return [...$colors, 'Flame', 'Green Flame', 'Blue Flame', 'Yellow Gradient', 'Cyan Gradient', 'Violet Gradient', 'Rainbow', 'Intense Flame', 'Intense Green Flame', 'Intense Blue Flame', 'Intense Rainbow', ...$compoundBlack, ...$compoundSilver];
+        return $colors;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
+        
         $headline = ['Basic Dyes', 'Bright Dyes', 'Gradient Dyes', 'Compound Dye', 'Compound Dye', 'Strange Dyes', 'Lunar Dyes', 'Other Dyes', 'Unobtainable Dyes'];
     
         $info = [
@@ -56,7 +50,7 @@ class FetchDyes extends Command
             'The item(s) or effects described in this section exist as functional game items, but cannot be acquired through normal gameplay.'
         ];
 
-        $get = new GetItems('Dyes');
+        $get = new Get('Dyes');
         $crawler = $get->getCrawler('Dyes');
         $get->getTitle($crawler);
         $get->getInfo($crawler);
@@ -64,10 +58,10 @@ class FetchDyes extends Command
         $get->getCraft($crawler, '.terraria.lined.align-center');
         $headline = $get->customCraft($headline, $info);
 
-        foreach ($this->getColors() as $color) {
+        foreach ($this->getColors($crawler) as $color) {
             $name = str_replace("'", '', $color);
             $name = str_replace("/", '_', $name);
-            $get->saveJson("$name Dye");
+            $get->saveJson("$name");
             $output->writeln("[<fg=green>Ok</>] $name.json ($headline)");
         }
 
