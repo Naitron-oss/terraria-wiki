@@ -13,7 +13,7 @@ function handle_image($match) {
         '.png' => '',
         ' item sprite' => '',
     ];
-    $src = str_replace(array_keys($replace), array_values($replace), $match[2]);
+    $src = str_replace(array_keys($replace), array_values($replace), strtolower($match[2]));
             
     $img = '<img';
     $img = $img." src=\"./data/images/$src.png\"";
