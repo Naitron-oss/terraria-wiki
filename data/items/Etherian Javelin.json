@@ -3,8 +3,8 @@
     "title": "Etherian Javelin",
     "info": "The <b>Etherian Javelin<\/b> is an unobtainable item resembling the weapons used by Etherian Javelin Throwers. It only exists as an ID and an image in the game's files. Attempting to use third-party tools to obtain it will result in it instantly disappearing.\n",
     "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Etherian Javelin.png\" alt=\"Etherian Javelin\" title=\"Etherian Javelin\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/etherian javelin.png\" alt=\"etherian javelin\" title=\"etherian javelin\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
     },
     "craft": []
 }
