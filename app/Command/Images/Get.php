@@ -43,6 +43,7 @@ class Get extends Command
                     ' item sprite' => '',
                 ];
                 $name = str_replace(array_keys($replace), array_values($replace), $img[1]);
+                $name = strtolower($name);
                 $url = $img[0];
     
                 if (!file_exists("./data/images/$name.png")) {
