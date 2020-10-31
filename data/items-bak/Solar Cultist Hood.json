@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Solar_Cultist_Hood",
+    "title": "Cultist set",
+    "info": "The <b>Cultist set<\/b> is a vanity set purchased from the Clothier for <span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<\/span><\/span><span class=\"note-text\"> (set)<\/span> after the Lunatic Cultist has been defeated. Its appearance is based on the clothing worn by Cultists, but its design is different from the robes worn either by normal Lunatic Devotes or the Lunatic Cultist itself.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Cultist set equipped.png\" alt=\"Cultist set equipped\" title=\"Cultist set equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

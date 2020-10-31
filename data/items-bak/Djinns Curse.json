@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Djinn's_Curse",
+    "title": "Djinn's Curse",
+    "info": "<b>Djinn's Curse<\/b> is a Hardmode vanity item that can be equipped in the \"pants\" slot. It visually replaces the player's feet with a genie-like effect, similar to the Desert Spirit's appearance. It has a 1\/30 (3.3%) chance of dropping from Desert Spirits.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Djinns Curse.png\" alt=\"Djinns Curse\" title=\"Djinns Curse\" \/><\/li><li><img src=\".\/imgs\/Djinns Curse equipped.png\" alt=\"Djinns Curse equipped\" title=\"Djinns Curse equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><\/div><\/td><\/tr><tr><th>Body slot<\/th><td>Social Pants<\/td><\/tr><tr><th>Tooltip<\/th><td><i>Grants slow fall in exchange for your feet<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">04*<\/s><img src=\".\/imgs\/Rarity level: 4.png\" alt=\"Rarity level: 4\" title=\"Rarity level: 4\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Demon_Conch",
+    "title": "Demon Conch",
+    "info": "The <b>Demon Conch<\/b> is a rare pre-Hardmode item obtainable by fishing in lava. When used, it teleports the player to the center of the Underworld. Like the Magic Mirror, it can be used infinitely at no cost, making it a viable alternative to using conventional hellevators.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Demon Conch.png\" alt=\"Demon Conch\" title=\"Demon Conch\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Tool<\/span><span class=\"nowrap tag\">Miscellaneous<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>90 <span class=\"usetime\">(Snail)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>If you listen closely, you can hear screams<br>'Watch your toes'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">04*<\/s><img src=\".\/imgs\/Rarity level: 4.png\" alt=\"Rarity level: 4\" title=\"Rarity level: 4\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

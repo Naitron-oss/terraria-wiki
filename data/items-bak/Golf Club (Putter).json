@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Golf_Club_(Putter)",
+    "title": "Golf Clubs",
+    "info": "<b>Golf Clubs<\/b> are tools used in the golf minigame. There are four types of Golf Clubs, the Driver, Iron, Wedge, and Putter, which are each used to hit the Golf Ball a different horizontal and vertical distance.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Worn Golf Club (Putter).png\" alt=\"Worn Golf Club (Putter)\" title=\"Worn Golf Club (Putter)\" \/> <img src=\".\/imgs\/Golf Club (Iron).png\" alt=\"Golf Club (Iron)\" title=\"Golf Club (Iron)\" \/> <img src=\".\/imgs\/Fancy Golf Club (Driver).png\" alt=\"Fancy Golf Club (Driver)\" title=\"Fancy Golf Club (Driver)\" \/> <img src=\".\/imgs\/Premium Golf Club (Wedge).png\" alt=\"Premium Golf Club (Wedge)\" title=\"Premium Golf Club (Wedge)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Tool<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>12 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>6<\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

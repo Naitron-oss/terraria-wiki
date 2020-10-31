@@ -1,0 +1,16 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Mini_Nuke_II",
+    "title": "Mini Nuke II",
+    "info": "The <b>Mini Nuke II<\/b> is a type of rocket ammunition. Unlike the Mini Nuke I, it destroys tiles. It is a direct upgrade from the Rocket IV, dealing more damage with a larger blast radius.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Mini Nuke II.png\" alt=\"Mini Nuke II\" title=\"Mini Nuke II\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Ammunition<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>75 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>4 <span class=\"knockback\">(Weak)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Huge blast radius. Will destroy tiles<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">99 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": [
+        {
+            "title": "Crafting",
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Mini Nuke II.png\" alt=\"Mini Nuke II\" title=\"Mini Nuke II\" \/><span><span>Mini Nuke II<\/span><span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span><\/span><\/span> <span class=\"note-text\">(100)<\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Rocket IV.png\" alt=\"Rocket IV\" title=\"Rocket IV\" \/><span><span>Rocket IV<\/span><\/span><\/span> <span class=\"note-text\">(100)<\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Shroomite Bar.png\" alt=\"Shroomite Bar\" title=\"Shroomite Bar\" \/><span><span>Shroomite Bar<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Autohammer.png\" alt=\"Autohammer\" title=\"Autohammer\" \/><span><span>Autohammer<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
+        }
+    ]
+}

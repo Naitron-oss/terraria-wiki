@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Golden_Tombstone",
+    "title": "Tombstones",
+    "info": "A <b>Tombstone<\/b> drops when a player dies. It can then be retrieved and used much like a sign or as a form of decoration. By default, they contain the death message generated based on how the player died. Additionally, Tombstones created in 1.4 (<span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span>) and later show the real life date the player died.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Tombstone.png\" alt=\"Tombstone\" title=\"Tombstone\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Furniture<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <span class=\"small-bold\">(2 wide\u00a0\u00d7\u00a02 high)<\/span><\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

@@ -8,6 +8,7 @@ use App\Command\Items\Make as ItemsMake;
 use App\Command\Items\FetchDyes;
 use App\Command\Items\FetchFish;
 use App\Command\Images\Get as ImagesGet;
+use App\Command\Images\FetchSprite;
 use App\Command\MakePage;
 use Symfony\Component\Console\Application;
 
@@ -32,6 +33,7 @@ $app->addCommands([
   new ItemsFetch(),
   new FetchDyes(),
   new FetchFish(),
+  new FetchSprite(),
 ]);
 
 // Check

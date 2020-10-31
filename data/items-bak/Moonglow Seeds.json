@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Moonglow_Seeds",
+    "title": "Moonglow Seeds",
+    "info": "<b>Moonglow Seeds<\/b> are obtained by harvesting Moonglow while it is blooming. Fully-grown Moonglow blooms only at night and will, as its name implies, glow and give off blue orbs of light. At this time it drops 1-3 Moonglow Seeds when harvested.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Moonglow Seeds.png\" alt=\"Moonglow Seeds\" title=\"Moonglow Seeds\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Auto-use.png\" alt=\"Auto-use\" title=\"Auto-use\" \/><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Seeds<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Max stack<\/th><td>999 <span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span> \/ 99 <span class=\"eico\"><img src=\".\/imgs\/Console Version.png\" alt=\"Console Version\" title=\"Console Version\" \/>\u2009<img src=\".\/imgs\/Old-gen console version.png\" alt=\"Old-gen console version\" title=\"Old-gen console version\" \/>\u2009<img src=\".\/imgs\/3DS version.png\" alt=\"3DS version\" title=\"3DS version\" \/><\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"16 Copper Coins\" data-sort-value=\"16\"><span class=\"cc\">16<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">25 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

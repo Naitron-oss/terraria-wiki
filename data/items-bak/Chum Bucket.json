@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Chum_Bucket",
+    "title": "Chum Bucket",
+    "info": "The <b>Chum Bucket<\/b> is a consumable which increases fishing power when thrown into a liquid. It is dropped with a <span class=\"chance\"><s>50*<\/s>1\/2 (50%)<\/span> chance from Blood Moon enemies: the Wandering Eye Fish and Zombie Merman drop it in stacks of 4\u20136, and the Hemogoblin Shark, Blood Eel, and Dreadnautilus in stacks of 7\u201310. These enemies spawn when fishing during a Blood Moon.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Chum Bucket.png\" alt=\"Chum Bucket\" title=\"Chum Bucket\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Consumable<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>19 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>7<\/td><\/tr><tr><th>Tooltip<\/th><td><i>Toss in water up to 3 times to increase fishing power<br>'Plankton!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"5 Silver Coins\" data-sort-value=\"500\"><span class=\"sc\">5<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">25 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

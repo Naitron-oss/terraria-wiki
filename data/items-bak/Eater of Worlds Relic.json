@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Eater_of_Worlds_Relic",
+    "title": "Relics",
+    "info": "<b>Relics<\/b> are furniture items dropped by bosses in Master Mode. They are golden depictions of their respective boss that hover above a pedestal, have a golden particle effect, and emit light when placed close to a light source.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Relics.png\" alt=\"Relics\" title=\"Relics\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Furniture<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <span class=\"small-bold\">(3 wide\u00a0\u00d7\u00a04 high)<\/span><\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">13*<\/s><img src=\".\/imgs\/Rarity level: Fiery red.png\" alt=\"Rarity level: Fiery red\" title=\"Rarity level: Fiery red\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

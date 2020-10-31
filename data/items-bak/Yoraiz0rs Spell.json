@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Yoraiz0r's_Spell",
+    "title": "Yoraiz0r's Spell",
+    "info": "<b>Yoraiz0r's Spell<\/b> is a developer wing type. Like other developer wings, Yoraiz0r's Spell is acquired along with Yoraiz0r's set when they drop from a Hardmode Treasure Bag in Expert Mode (<span class=\"chance\"><s>5*<\/s>1\/20 (5%)<\/span> chance of a random developer set dropping).\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Yoraiz0rs Spell.png\" alt=\"Yoraiz0rs Spell\" title=\"Yoraiz0rs Spell\" \/><\/li><li><img src=\".\/imgs\/Yoraiz0rs Spell equipped.png\" alt=\"Yoraiz0rs Spell equipped\" title=\"Yoraiz0rs Spell equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Developer<\/span><span class=\"nowrap tag\">Accessory<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>'Great for impersonating devs!'<br>Allows flight and slow fall<br>Whatever this accessory does to you is not a bug!<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">09*<\/s><img src=\".\/imgs\/Rarity level: 9.png\" alt=\"Rarity level: 9\" title=\"Rarity level: 9\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

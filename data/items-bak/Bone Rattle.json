@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Bone_Rattle",
+    "title": "Bone Rattle",
+    "info": "The <b>Bone Rattle<\/b> is a pet item which summons a Baby Face Monster. The Bone Rattle has a 5% (1\/20) chance of being dropped by Brain of Cthulhu or its Treasure Bag in Expert Mode. When the player is flying or far away, the baby Face Monster will appear to hold onto a flying Crimera-like creature to catch up to the player.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Bone Rattle.png\" alt=\"Bone Rattle\" title=\"Bone Rattle\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Pet summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>20 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a Baby Face Monster<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"7 Gold 50 Silver Coins\" data-sort-value=\"75000\"><span class=\"gc\">7<\/span><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

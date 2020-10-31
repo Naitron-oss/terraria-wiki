@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Paintball_Gun",
+    "title": "Paintball Gun",
+    "info": "The <b>Paintball Gun<\/b> is a ranged weapon which has a 10% chance of being dropped from the Painter NPC. It fires a three-shot burst of slow-moving, arcing projectiles which consume no mana or ammunition.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Paintball Gun.png\" alt=\"Paintball Gun\" title=\"Paintball Gun\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>12 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>1.25 <span class=\"knockback\">(Extremely weak)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>11%<\/td><\/tr><tr><th>Use time<\/th><td>24 <span class=\"usetime\">(Fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>10<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

@@ -1,0 +1,16 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Aglet",
+    "title": "Aglet",
+    "info": "The <b>Aglet<\/b> is an accessory that can be found in surface chests, and from Wooden Crates obtained from fishing (1\/45 chance, 2.22%). It increases the player's movement speed by 5%. The extra boost can be useful for characters that already have the Anklet of the Wind, as multiple of the same accessory cannot be equipped.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Aglet.png\" alt=\"Aglet\" title=\"Aglet\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>5% increased movement speed<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": [
+        {
+            "title": "Used in",
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Lightning Boots.png\" alt=\"Lightning Boots\" title=\"Lightning Boots\" \/><span><span>Lightning Boots<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Spectre Boots.png\" alt=\"Spectre Boots\" title=\"Spectre Boots\" \/><span><span>Spectre Boots<\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Anklet of the Wind.png\" alt=\"Anklet of the Wind\" title=\"Anklet of the Wind\" \/><span><span>Anklet of the Wind<\/span><\/span><\/span><\/li><li><span class=\"i\"><img src=\".\/imgs\/Aglet.png\" alt=\"Aglet\" title=\"Aglet\" \/><span><span>Aglet<\/span><\/span><\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Tinkerers Workshop.png\" alt=\"Tinkerers Workshop\" title=\"Tinkerers Workshop\" \/><span><span>Tinkerer's Workshop<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
+        }
+    ]
+}

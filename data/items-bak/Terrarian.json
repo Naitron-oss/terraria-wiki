@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Terrarian",
+    "title": "Terrarian",
+    "info": "The <b>Terrarian<\/b> is a Hardmode, post-Moon Lord yoyo which has a reach of 25 tiles and can stay in the air indefinitely. Similarly to the Flairon, it fires short-lived projectiles at a rapid rate which will home in on nearby enemies and bounce off of walls. The Terrarian has a <span class=\"chance\"><s>11.11*<\/s>1\/9 (11.11%)<\/span> chance to drop from the Moon Lord. It is currently the most powerful yoyo in the game.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Terrarian.png\" alt=\"Terrarian\" title=\"Terrarian\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>190 <span class=\"small-bold\">(Melee)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>6.5 <span class=\"knockback\">(Strong)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>14%<\/td><\/tr><tr><th>Use time<\/th><td>25 <span class=\"usetime\">(Fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>16<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">10*<\/s><img src=\".\/imgs\/Rarity level: 10.png\" alt=\"Rarity level: 10\" title=\"Rarity level: 10\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"10 Gold Coins\" data-sort-value=\"100000\"><span class=\"gc\">10<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

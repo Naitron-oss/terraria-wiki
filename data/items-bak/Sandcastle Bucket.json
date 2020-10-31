@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Sandcastle_Bucket",
+    "title": "Sandcastle Bucket",
+    "info": "The <b>Sandcastle Bucket<\/b> is a tool that consumes one Sand Block for each use, and places a random one of four decorative sandcastle styles that are 2x3 blocks in size. Sandcastles exist as background furniture items, but cannot be picked up; using a Pickaxe on them destroys them immediately. Sandcastles can be placed on all varieties of Sand Blocks and Platforms, and are not restricted to any biome.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Sandcastle Bucket.png\" alt=\"Sandcastle Bucket\" title=\"Sandcastle Bucket\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Auto-use.png\" alt=\"Auto-use\" title=\"Auto-use\" \/><\/div><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Tool<\/span><span class=\"nowrap tag\">Furniture<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <span class=\"small-bold\">(3 wide\u00a0\u00d7\u00a02 high)<\/span><\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Places sandcastles<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

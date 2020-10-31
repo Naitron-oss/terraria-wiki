@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Lamia_Mask",
+    "title": "Lamia set",
+    "info": "The <b>Lamia set<\/b> is a vanity set which consists of the <b>Lamia Mask<\/b>, <b>Lamia Wraps<\/b> and the <b>Lamia Tail<\/b>. Each piece has a 1\/100 (1%) chance of being dropped by the Lamia.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Lamia set equipped (male).png\" alt=\"Lamia set equipped (male)\" title=\"Lamia set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Lamia set equipped (female).png\" alt=\"Lamia set equipped (female)\" title=\"Lamia set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

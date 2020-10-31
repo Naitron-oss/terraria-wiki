@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Phasic_Warp_Ejector",
+    "title": "Phasic Warp Ejector",
+    "info": "The <b>Phasic Warp Ejector<\/b> is an unimplemented and incomplete item. All that remains of it is an item ID and an image. No stats or behaviors exist for this item, making it impossible to know exactly what it would have done had it been finished.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Phasic Warp Ejector.png\" alt=\"Phasic Warp Ejector\" title=\"Phasic Warp Ejector\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

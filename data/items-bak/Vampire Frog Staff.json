@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Vampire_Frog_Staff",
+    "title": "Vampire Frog Staff",
+    "info": "The <b>Vampire Frog Staff<\/b> is a ground melee summon weapon. It spawns a Vampire Frog minion that follows the player and attacks enemies using its tongue. Like other minions, the summoned Vampire Frog is invincible and follows the player for an unlimited amount of time, unless the player dies, summons a replacement minion, or cancels the buff. It has a <span class=\"chance\"><s>12.5*<\/s>1\/8 (12.5%)<\/span> to be dropped by a Zombie Merman or Wandering Eye Fish, both of which spawn while fishing during a Blood Moon.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Vampire Frog Staff.png\" alt=\"Vampire Frog Staff\" title=\"Vampire Frog Staff\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Damage<\/th><td>13 <span class=\"small-bold\">(Summon)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>5 <span class=\"knockback\">(Average)<\/span><\/td><\/tr><tr><th>Mana<\/th><td>10<\/td><\/tr><tr><th>Use time<\/th><td>36 <span class=\"usetime\">(Very slow)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>10<\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a vampire frog to fight for you<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

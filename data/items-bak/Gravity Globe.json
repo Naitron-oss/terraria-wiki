@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Gravity_Globe",
+    "title": "Gravity Globe",
+    "info": "The <b>Gravity Globe<\/b> is an Expert Mode Accessory found in the Moon Lord's Treasure Bag. When worn, it allows the holder to flip gravity, so that the player falls up instead of down, and toggle gravity back to normal afterward. Once equipped, pressing the <span class=\"key\" style=\"display:inline-block; white-space:nowrap;\"><kbd style=\"color:black;border: 1px solid rgb(170, 170, 170);box-shadow: 0.1em 0.2em 0.2em rgb(221, 221, 221);border-radius: .2em;background-image: linear-gradient(to bottom, rgb(238, 238, 238), rgb(249, 249, 249), rgb(238, 238, 238));background-color: rgb(249, 249, 249);padding: 0.1em 0.4em 0.2em 0.3em;margin-right:2px;font-size:85%;font-family:inherit;font-style:normal;\"><span title=\"W (PC default)\">\u25b2 Up<\/span><\/kbd><\/span> key toggles the gravity direction. This only affects the player with the item equipped.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Gravity Globe.png\" alt=\"Gravity Globe\" title=\"Gravity Globe\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Allows the holder to reverse gravity<br>Press UP to change gravity<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">12*<\/s><img src=\".\/imgs\/Rarity level: Rainbow.png\" alt=\"Rarity level: Rainbow\" title=\"Rarity level: Rainbow\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

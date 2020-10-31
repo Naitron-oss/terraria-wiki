@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Dart_Rifle",
+    "title": "Dart Rifle",
+    "info": "The <b>Dart Rifle<\/b> is a Hardmode ranged weapon that consumes darts as ammunition. It has a <span class=\"chance\"><s>20*<\/s>1\/5 (20%)<\/span> chance to be dropped by Corrupt Mimics. It is the Corruption\u00a0counterpart to the Crimson Dart Pistol.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Dart Rifle.png\" alt=\"Dart Rifle\" title=\"Dart Rifle\" \/>\u2002<img src=\".\/imgs\/old Dart Rifle.png\" alt=\"old Dart Rifle\" title=\"old Dart Rifle\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Autofire.png\" alt=\"Autofire\" title=\"Autofire\" \/><\/div><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Uses ammo<\/th><td>Darts<\/td><\/tr><tr><th>Damage<\/th><td>62 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>5.5 <span class=\"knockback\">(Average)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>38 <span class=\"usetime\">(Very slow)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>14.5<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">05*<\/s><img src=\".\/imgs\/Rarity level: 5.png\" alt=\"Rarity level: 5\" title=\"Rarity level: 5\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"8 Gold Coins\" data-sort-value=\"80000\"><span class=\"gc\">8<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

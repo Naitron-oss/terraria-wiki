@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Devil_Horns",
+    "title": "Devil Horns",
+    "info": "The <b>Devil Horns<\/b> are a head vanity item that can be purchased from the Traveling Merchant for <span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2<\/span><span class=\"sc\">50<\/span><\/span>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Devil Horns.png\" alt=\"Devil Horns\" title=\"Devil Horns\" \/><\/li><li><img src=\".\/imgs\/Devil Horns equipped.png\" alt=\"Devil Horns equipped\" title=\"Devil Horns equipped\" \/><\/li><li><img src=\".\/imgs\/Devil Horns equipped (female).png\" alt=\"Devil Horns equipped (female)\" title=\"Devil Horns equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><\/div><\/td><\/tr><tr><th>Body slot<\/th><td>Social Helmet<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2<\/span><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

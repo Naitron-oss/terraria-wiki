@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Fried_Egg",
+    "title": "Fried Egg",
+    "info": "The <b>Fried Egg<\/b> is a food item dropped from Wall Creepers, Black Recluses, and Sand Poachers with a <span class=\"chance\"><s>3.33*<\/s>1\/30 (3.33%)<\/span> chance. When consumed, it grants the Plenty Satisfied buff for 14 minutes.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Fried Egg.png\" alt=\"Fried Egg\" title=\"Fried Egg\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 30\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 3.png\" alt=\"Stack digit 3\" title=\"Stack digit 3\" \/><img src=\".\/imgs\/Stack digit 0.png\" alt=\"Stack digit 0\" title=\"Stack digit 0\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><span class=\"nowrap tag\">Food<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>17 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Medium improvements to all stats<br>'Sunny side up!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">10 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

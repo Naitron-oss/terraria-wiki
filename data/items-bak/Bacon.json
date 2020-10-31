@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Bacon",
+    "title": "Bacon",
+    "info": "<b>Bacon<\/b> is a consumable food item dropped by the Hardmode enemy Pigron, or occasionally by the <span class=\"eil\">Pigronata<span class=\"eico\"><img src=\".\/imgs\/Desktop, Console, and Mobile versions.png\" alt=\"Desktop, Console, and Mobile versions\" title=\"Desktop, Console, and Mobile versions\" \/><\/span><\/span> item. Using Bacon grants the Exquisitely Stuffed buff for 24 minutes or the Well Fed buff <span class=\"eico\"><img src=\".\/imgs\/Console Version.png\" alt=\"Console Version\" title=\"Console Version\" \/><\/span> for 30 minutes.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Bacon.png\" alt=\"Bacon\" title=\"Bacon\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 30\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 3.png\" alt=\"Stack digit 3\" title=\"Stack digit 3\" \/><img src=\".\/imgs\/Stack digit 0.png\" alt=\"Stack digit 0\" title=\"Stack digit 0\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><span class=\"nowrap tag\">Food<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>17 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Major improvements to all stats<br>'Bacon? Bacon.'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">04*<\/s><img src=\".\/imgs\/Rarity level: 4.png\" alt=\"Rarity level: 4\" title=\"Rarity level: 4\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">10 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

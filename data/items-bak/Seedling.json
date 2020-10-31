@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Seedling",
+    "title": "Seedling",
+    "info": "The <b>Seedling<\/b> is a pet summon item that summons a <b>Pet Sapling<\/b> that follows the player. If the player flies too high or otherwise moves far enough away from it, it will sprout leaflets and use them to fly with the player, acting as \"wings\". Like all pets on the Desktop Version, it does not attack enemies, nor does it take damage.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Seedling.png\" alt=\"Seedling\" title=\"Seedling\" \/>\u2002<img src=\".\/imgs\/old Seedling.png\" alt=\"old Seedling\" title=\"old Seedling\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Pet summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>20 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a Pet Sapling<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

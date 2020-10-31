@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Pink_Slab_Wall",
+    "title": "Dungeon Brick Walls",
+    "info": "<b>Dungeon Brick Walls<\/b> are the background Walls found naturally-placed in Dungeons.  There are a total of 9 different variants, but each Dungeon can include only the three wall types matching that Dungeon's bricks.  A single Dungeon will usually contain all three types in different areas; in each area, the Faction Flags found will correspond to the wall variant.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Blue Brick Wall.png\" alt=\"Blue Brick Wall\" title=\"Blue Brick Wall\" \/> <img src=\".\/imgs\/Green Slab Wall.png\" alt=\"Green Slab Wall\" title=\"Green Slab Wall\" \/> <img src=\".\/imgs\/Pink Tiled Wall.png\" alt=\"Pink Tiled Wall\" title=\"Pink Tiled Wall\" \/><hr><img src=\".\/imgs\/Blue Brick Wall (placed).png\" alt=\"Blue Brick Wall (placed)\" title=\"Blue Brick Wall (placed)\" \/> <img src=\".\/imgs\/Green Slab Wall (placed).png\" alt=\"Green Slab Wall (placed)\" title=\"Green Slab Wall (placed)\" \/> <img src=\".\/imgs\/Pink Tiled Wall (placed).png\" alt=\"Pink Tiled Wall (placed)\" title=\"Pink Tiled Wall (placed)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Wall<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>14 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

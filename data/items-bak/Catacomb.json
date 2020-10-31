@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Catacomb",
+    "title": "Catacomb",
+    "info": "The <b>Catacomb<\/b> is a decorative item that can be placed on background walls in a manner similar to a Painting. It resembles a rectangular pit in the wall with a skeleton resting inside. The Catacomb can appear with one of three different frame styles, and one of three different skeleton positions. Catacombs can be found on the walls deep within a Dungeon with tiled walls.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Catacomb.png\" alt=\"Catacomb\" title=\"Catacomb\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Auto-use.png\" alt=\"Auto-use\" title=\"Auto-use\" \/><\/div><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Furniture<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <span class=\"small-bold\">(4 wide\u00a0\u00d7\u00a03 high)<\/span><\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

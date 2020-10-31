@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Tiki_Totem",
+    "title": "Tiki Totem",
+    "info": "The <b>Tiki Totem<\/b> is a Hardmode item that summons a Tiki Spirit pet that floats and spins above the player's head. It is purchased from the Witch Doctor for <span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2<\/span><\/span>, when the Witch Doctor is housed in the Jungle biome during Hardmode. As it is a pet, the Tiki Spirit deals no damage to enemies or other players, and it cannot be harmed. Unlike most pets, it will not teleport to the player when the player moves too quickly for it to keep up; it will simply float straight toward the player.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Tiki Totem.png\" alt=\"Tiki Totem\" title=\"Tiki Totem\" \/>\u2002<img src=\".\/imgs\/old Tiki Totem.png\" alt=\"old Tiki Totem\" title=\"old Tiki Totem\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Pet summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>20 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a Tiki Spirit<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"2 Platinum Coins\" data-sort-value=\"2000000\"><span class=\"pc\">2<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Gold Coins\" data-sort-value=\"400000\"><span class=\"gc\">40<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

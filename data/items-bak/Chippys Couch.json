@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Chippy's_Couch",
+    "title": "Chippy's Couch",
+    "info": "<b>Chippy's Couch<\/b> is a furniture item dropped by Skeletron, with a <span class=\"chance\"><s>14.29*<\/s>1\/7 (14.29%)<\/span> chance.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Chippys Couch.png\" alt=\"Chippys Couch\" title=\"Chippys Couch\" \/><\/li><li><img src=\".\/imgs\/Chippys Couch placed.png\" alt=\"Chippys Couch placed\" title=\"Chippys Couch placed\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Auto-use.png\" alt=\"Auto-use\" title=\"Auto-use\" \/><\/div><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Furniture<\/span><\/div><\/td><\/tr><tr><th>Placeable<\/th><td><img src=\".\/imgs\/Yes.png\" alt=\"Yes\" title=\"Yes\" \/> <span class=\"small-bold\">(3 wide\u00a0\u00d7\u00a02 high)<\/span><\/td><\/tr><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Heeellllllo Terraria enthusiasts!<br>'Great for chilling like a streamer!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">09*<\/s><img src=\".\/imgs\/Rarity level: 9.png\" alt=\"Rarity level: 9\" title=\"Rarity level: 9\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

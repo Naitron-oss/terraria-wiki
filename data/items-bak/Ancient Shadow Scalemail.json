@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Ancient_Shadow_Scalemail",
+    "title": "Ancient Shadow armor",
+    "info": "<b>Ancient Shadow armor<\/b> is an armor set that reproduces the pre-1.0.3 Shadow armor design, and is otherwise identical in all ways to the current Shadow armor set. Each piece is interchangeable with the equivalent Shadow armor piece, while still granting the same set bonus.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Ancient Shadow armor equipped (male).png\" alt=\"Ancient Shadow armor equipped (male)\" title=\"Ancient Shadow armor equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Ancient Shadow armor equipped (female).png\" alt=\"Ancient Shadow armor equipped (female)\" title=\"Ancient Shadow armor equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Defense<\/th><td>19<span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Set Bonus<\/th><td><i>15% increased movement speed<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1<\/span><span class=\"sc\">80<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

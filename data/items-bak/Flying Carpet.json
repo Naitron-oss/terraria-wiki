@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Flying_Carpet",
+    "title": "Flying Carpet",
+    "info": "The <b>Flying Carpet<\/b> is an accessory that allows the player to float for about four seconds, similar to the Hoverboard. It can only be found inside Chests located within Pyramids in the Desert.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Flying Carpet.png\" alt=\"Flying Carpet\" title=\"Flying Carpet\" \/>\u2002<img src=\".\/imgs\/old Flying Carpet.png\" alt=\"old Flying Carpet\" title=\"old Flying Carpet\" \/><\/li><li><img src=\".\/imgs\/Flying Carpet equipped.png\" alt=\"Flying Carpet equipped\" title=\"Flying Carpet equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Allows the owner to float for a few seconds<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

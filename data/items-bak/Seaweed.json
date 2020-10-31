@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Seaweed",
+    "title": "Seaweed",
+    "info": "<b>Seaweed<\/b> is a pet-summoning item which summons a <b>Turtle<\/b> pet that follows the player, like other pets. It lasts indefinitely and does not attack enemies nor take damage, and is purely for aesthetics. Seaweed can rarely be found in the Underground Jungle's Jungle Shrines or Living Mahogany Trees. On the <img src=\".\/imgs\/Desktop version.png\" alt=\"Desktop version\" title=\"Desktop version\" \/>\u00a0Desktop version and <img src=\".\/imgs\/Mobile version.png\" alt=\"Mobile version\" title=\"Mobile version\" \/>\u00a0Mobile version, it can also be found in Jungle Crates and Bramble Crates.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Seaweed.png\" alt=\"Seaweed\" title=\"Seaweed\" \/>\u2002<img src=\".\/imgs\/old Seaweed.png\" alt=\"old Seaweed\" title=\"old Seaweed\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Pet summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>20 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons a pet turtle<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/imgs\/Rarity level: 3.png\" alt=\"Rarity level: 3\" title=\"Rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

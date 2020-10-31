@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Blue_Jellyfish_Kite",
+    "title": "Kites",
+    "info": "<b>Kites<\/b> are miscellaneous novelty items that can be held. Some can be rarely dropped by certain enemies. A kite can be flown during windy days or if the player runs fast enough while holding it.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Blue Kite.png\" alt=\"Blue Kite\" title=\"Blue Kite\" \/> <img src=\".\/imgs\/Bunny Kite.png\" alt=\"Bunny Kite\" title=\"Bunny Kite\" \/> <img src=\".\/imgs\/Koi Kite.png\" alt=\"Koi Kite\" title=\"Koi Kite\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Miscellaneous<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40<\/span><\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Maroon_Graduation_Gown",
+    "title": "Maroon Graduation set",
+    "info": "The <b>Maroon Graduation set<\/b> is a Hardmode vanity set consisting of the <b>Maroon Graduation Cap<\/b> and the <b>Maroon Graduation Gown<\/b>. They are purchased from the Clothier for <span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<\/span><\/span><span class=\"note-text\"> (set)<\/span> during a Waxing Crescent.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Maroon Graduation set equipped (male).png\" alt=\"Maroon Graduation set equipped (male)\" title=\"Maroon Graduation set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Maroon Graduation set equipped (female).png\" alt=\"Maroon Graduation set equipped (female)\" title=\"Maroon Graduation set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"4 Gold Coins\" data-sort-value=\"40000\"><span class=\"gc\">4<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

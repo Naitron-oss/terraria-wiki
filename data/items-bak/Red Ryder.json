@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Red_Ryder",
+    "title": "Red Ryder",
+    "info": "The <b>Red Ryder<\/b> is a gun dropped from Presents obtained during Christmas, with a chance of 0.643% in pre-Hardmode and 0.56% in Hardmode. It is similar to the Musket, although it does less damage. Its low speed and damage make it a very low-tier gun. However, it can potentially be obtained very early in the game, is better than most early-game bows, and it fulfills the criteria for the Arms Dealer to move in, making it an exceptional starting weapon.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Red Ryder.png\" alt=\"Red Ryder\" title=\"Red Ryder\" \/><\/li><\/ul><div class=\"auto\"><img src=\".\/imgs\/Autofire.png\" alt=\"Autofire\" title=\"Autofire\" \/><\/div><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Uses ammo<\/th><td>Bullets<\/td><\/tr><tr><th>Damage<\/th><td>20 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>3.75 <span class=\"knockback\">(Weak)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>38 <span class=\"usetime\">(Very slow)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>8<\/td><\/tr><tr><th>Tooltip<\/th><td><i>'Don't shoot your eye out!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold Coins\" data-sort-value=\"20000\"><span class=\"gc\">2<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

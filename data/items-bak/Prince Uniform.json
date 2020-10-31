@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Prince_Uniform",
+    "title": "Prince set",
+    "info": "The <b>Prince set<\/b> is a Hardmode vanity set consisting of the <b>Prince Uniform<\/b>, <b>Prince Cape<\/b>, and the <b>Prince Pants<\/b>. It is purchased from the Princess for <span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1<\/span><\/span><span class=\"note-text\"> (set)<\/span>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Prince set equipped (male).png\" alt=\"Prince set equipped (male)\" title=\"Prince set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Prince set equipped (female).png\" alt=\"Prince set equipped (female)\" title=\"Prince set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">05*<\/s><img src=\".\/imgs\/Rarity level: 5.png\" alt=\"Rarity level: 5\" title=\"Rarity level: 5\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"1 Platinum Coin\" data-sort-value=\"1000000\"><span class=\"pc\">1<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"20 Gold Coins\" data-sort-value=\"200000\"><span class=\"gc\">20<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

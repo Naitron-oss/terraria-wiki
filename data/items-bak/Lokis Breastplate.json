@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Loki's_Breastplate",
+    "title": "Loki's set",
+    "info": "<b>Loki's set<\/b> is a vanity developer item set that can be obtained rarely (5% chance) from Treasure Bags obtained in Expert Mode. It is the vanity set made for Loki, the Community Manager at Re-Logic. Equipping the full set produces a pulsating effect similar to Adamantite armor, a glow similar to Spooky armor, and causes the armor to appear darker.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Lokis set equipped.png\" alt=\"Lokis set equipped\" title=\"Lokis set equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>'Great for impersonating devs!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">09*<\/s><img src=\".\/imgs\/Rarity level: 9.png\" alt=\"Rarity level: 9\" title=\"Rarity level: 9\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

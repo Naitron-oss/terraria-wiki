@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Chef_Uniform",
+    "title": "Chef set",
+    "info": "The <b>Chef set<\/b> is a set of Vanity items made up of the <b>Chef Hat<\/b>, the <b>Chef Uniform<\/b>, and the <b>Chef Pants<\/b>. It is purchased from the Traveling Merchant for <span class=\"coin\" title=\"7 Gold 50 Silver Coins\" data-sort-value=\"75000\"><span class=\"gc\">7<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Chef set equipped (male).png\" alt=\"Chef set equipped (male)\" title=\"Chef set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Chef set equipped (female).png\" alt=\"Chef set equipped (female)\" title=\"Chef set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"7 Gold 50 Silver Coins\" data-sort-value=\"75000\"><span class=\"gc\">7<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

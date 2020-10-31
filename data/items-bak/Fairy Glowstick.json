@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Fairy_Glowstick",
+    "title": "Fairy Glowstick",
+    "info": "Fairy Glowstick is a type of glowstick sold by Zoologist for <span class=\"coin\" title=\"75 Copper Coins\" data-sort-value=\"75\"><span class=\"cc\">75<\/span><\/span>  when all three fairies have been recorded in the bestiary. The fairy glowstick functions like a regular glowstick when thrown, however when the it strikes the ground, it will instead hover above the ground at a certain height.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Fairy Glowstick.png\" alt=\"Fairy Glowstick\" title=\"Fairy Glowstick\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><img src=\".\/imgs\/Stack digit 9.png\" alt=\"Stack digit 9\" title=\"Stack digit 9\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Use time<\/th><td>15 <span class=\"usetime\">(Very fast)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>6<\/td><\/tr><tr><th>Tooltip<\/th><td><i>Hovers when thrown<br>Works when wet<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"75 Copper Coins\" data-sort-value=\"75\"><span class=\"cc\">75<\/span><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Copper Coins\" data-sort-value=\"15\"><span class=\"cc\">15<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">100 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

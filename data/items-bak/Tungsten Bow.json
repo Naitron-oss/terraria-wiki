@@ -1,0 +1,16 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Tungsten_Bow",
+    "title": "Tungsten Bow",
+    "info": "The <b>Tungsten Bow<\/b> is a strong, mid-tier bow crafted solely using Tungsten Bars. It is stronger than its ore counterpart, the Silver Bow, and the ones that precede it in power. Like other bows, it uses arrows as ammo. It does not convert used arrows into special arrows.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Tungsten Bow.png\" alt=\"Tungsten Bow\" title=\"Tungsten Bow\" \/>\u2002<img src=\".\/imgs\/old Tungsten Bow.png\" alt=\"old Tungsten Bow\" title=\"old Tungsten Bow\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Weapon<\/span><\/div><\/td><\/tr><tr><th>Uses ammo<\/th><td>Arrows<\/td><\/tr><tr><th>Damage<\/th><td>10 <span class=\"small-bold\">(Ranged)<\/span><\/td><\/tr><tr><th>Knockback<\/th><td>0 <span class=\"knockback\">(No knockback)<\/span><\/td><\/tr><tr><th>Critical chance<\/th><td>4%<\/td><\/tr><tr><th>Use time<\/th><td>26 <span class=\"usetime\">(Average)<\/span><\/td><\/tr><tr><th>Velocity<\/th><td>6.6<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"10 Silver 50 Copper Coins\" data-sort-value=\"1050\"><span class=\"sc\">10<\/span><span class=\"cc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": [
+        {
+            "title": "Recipes",
+            "info": "",
+            "table": "<div class=\"crafts\"><div class=\"wrap\"><table class=\"sortable\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><th class=\"result\">Result<\/th><th class=\"ingredients\">Ingredients<\/th><th class=\"station\">Crafting station<\/th><\/tr><tr data-rowid=\"1\"><td class=\"result\" rowspan=\"1\"><span class=\"i multi-line\"><img src=\".\/imgs\/Tungsten Bow.png\" alt=\"Tungsten Bow\" title=\"Tungsten Bow\" \/><span><span>Tungsten Bow<\/span><\/span><\/span><\/td><td class=\"ingredients\"><ul><li><span class=\"i\"><img src=\".\/imgs\/Tungsten Bar.png\" alt=\"Tungsten Bar\" title=\"Tungsten Bar\" \/><span><span>Tungsten Bar<\/span><\/span><\/span> <span class=\"note-text\">(7)<\/span><\/li><\/ul><\/td><td class=\"station\" rowspan=\"1\"><span class=\"i\"><img src=\".\/imgs\/Iron Anvil.png\" alt=\"Iron Anvil\" title=\"Iron Anvil\" \/><span><span>Iron Anvil<\/span><\/span><\/span><br><i><b>or<\/b><\/i><br><span class=\"i\"><img src=\".\/imgs\/Lead Anvil.png\" alt=\"Lead Anvil\" title=\"Lead Anvil\" \/><span><span>Lead Anvil<\/span><\/span><\/span><\/td><\/tr><\/tbody><\/table><div style=\"display: none\">total: 1 row(s)<\/div><\/div><\/div>"
+        }
+    ]
+}

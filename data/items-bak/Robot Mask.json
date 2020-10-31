@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Robot_Mask",
+    "title": "Robot set",
+    "info": "The <b>Robot set<\/b> is a set of vanity items consisting of the <b>Robot Mask<\/b>, <b>Robot Shirt<\/b>, and <b>Robot Pants<\/b>. Its male and female variants are identical. It has a <span class=\"chance\"><s>5.26*<\/s>1\/19 (5.26%)<\/span> chance to be obtained by opening a Goodie Bag from the Halloween event. When the Robot Shirt is equipped, the player will appear to have their arms facing forward when walking.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Robot set equipped.png\" alt=\"Robot set equipped\" title=\"Robot set equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 80 Silver Coins\" data-sort-value=\"18000\"><span class=\"gc\">1<\/span><span class=\"sc\">80<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

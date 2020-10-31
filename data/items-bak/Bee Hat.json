@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Bee_Hat",
+    "title": "Bee set",
+    "info": "The <b>Bee set<\/b> is made up of the <b>Bee Hat<\/b>, the <b>Bee Shirt<\/b>, and the <b>Bee Pants<\/b>. All three pieces are dropped by the Queen Bee, and each have an 11.11% drop chance (33.33% in Expert Mode).\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Bee set equipped (male).png\" alt=\"Bee set equipped (male)\" title=\"Bee set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Bee set equipped (female).png\" alt=\"Bee set equipped (female)\" title=\"Bee set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/imgs\/Rarity level: 1.png\" alt=\"Rarity level: 1\" title=\"Rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

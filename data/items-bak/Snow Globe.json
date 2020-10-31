@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Snow_Globe",
+    "title": "Snow Globe",
+    "info": "The <b>Snow Globe<\/b> is a Hardmode item used to summon the Frost Legion Event. It can be obtained from Presents (dropped during the Christmas event, December 15th-31st), which must be opened specifically in Hardmode worlds, with a <span class=\"chance\"><s>6.67*<\/s>1\/15 (6.67%)<\/span> chance. It can then be used in any world at any time.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Snow Globe.png\" alt=\"Snow Globe\" title=\"Snow Globe\" \/><\/li><\/ul><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Event summon<\/span><\/div><\/td><\/tr><tr><th>Use time<\/th><td>45 <span class=\"usetime\">(Very slow)<\/span><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Summons the Frost Legion<\/i><\/td><\/tr><tr><th>Max stack<\/th><td>20 <span class=\"eico\"><img src=\".\/imgs\/Desktop and Mobile versions.png\" alt=\"Desktop and Mobile versions\" title=\"Desktop and Mobile versions\" \/><\/span> \/ 1 <span class=\"eico\"><img src=\".\/imgs\/Console Version.png\" alt=\"Console Version\" title=\"Console Version\" \/>\u2009<img src=\".\/imgs\/Old-gen console version.png\" alt=\"Old-gen console version\" title=\"Old-gen console version\" \/>\u2009<img src=\".\/imgs\/3DS version.png\" alt=\"3DS version\" title=\"3DS version\" \/><\/span><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

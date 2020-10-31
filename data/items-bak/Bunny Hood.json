@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Bunny_Hood",
+    "title": "Bunny Hood",
+    "info": "The <b>Bunny Hood<\/b> is a vanity headgear item. It has a <span class=\"chance\"><s>1.33*<\/s>1\/75 (1.33%)<\/span> chance of being dropped by Corrupt Bunnies and <span class=\"eil\">Vicious Bunnies<span class=\"eico\"><img src=\".\/imgs\/Desktop, Console, and Mobile versions.png\" alt=\"Desktop, Console, and Mobile versions\" title=\"Desktop, Console, and Mobile versions\" \/><\/span><\/span>. On the <img src=\".\/imgs\/3DS version.png\" alt=\"3DS version\" title=\"3DS version\" \/>\u00a0<span style=\"display:none\">3DS <\/span>version, it can also be dropped by Diseaster Bunnies or Lepus.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Bunny Hood.png\" alt=\"Bunny Hood\" title=\"Bunny Hood\" \/><\/li><li><img src=\".\/imgs\/Bunny Hood equipped.png\" alt=\"Bunny Hood equipped\" title=\"Bunny Hood equipped\" \/><\/li><li><img src=\".\/imgs\/Bunny Hood equipped (female).png\" alt=\"Bunny Hood equipped (female)\" title=\"Bunny Hood equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><\/div><\/td><\/tr><tr><th>Body slot<\/th><td>Social Helmet<\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/imgs\/Rarity level: 0.png\" alt=\"Rarity level: 0\" title=\"Rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

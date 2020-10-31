@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Steampunk_Shirt",
+    "title": "Steampunk set",
+    "info": "The <b>Steampunk set<\/b> is a vanity set made up of the <b>Steampunk Hat<\/b>, <b>Steampunk Shirt<\/b>, and <b>Steampunk Pants<\/b>. They are purchased from the Steampunker for <span class=\"coin\" title=\"4 Gold 50 Silver Coins\" data-sort-value=\"45000\"><span class=\"gc\">4<\/span><span class=\"sc\">50<\/span><\/span> in total, during the full and waning moon phases.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Steampunk set equipped (male).png\" alt=\"Steampunk set equipped (male)\" title=\"Steampunk set equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Steampunk set equipped (female).png\" alt=\"Steampunk set equipped (female)\" title=\"Steampunk set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/imgs\/Rarity level: 2.png\" alt=\"Rarity level: 2\" title=\"Rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span class=\"coin\" title=\"4 Gold 50 Silver Coins\" data-sort-value=\"45000\"><span class=\"gc\">4<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"90 Silver Coins\" data-sort-value=\"9000\"><span class=\"sc\">90<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}

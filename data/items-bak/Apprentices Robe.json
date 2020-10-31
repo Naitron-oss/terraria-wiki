@@ -1,0 +1,10 @@
+{
+    "link": "https:\/\/terraria.gamepedia.com\/Apprentice's_Robe",
+    "title": "Apprentice armor",
+    "info": "The <b>Apprentice armor<\/b> is a Hardmode magic and summoning armor set purchased from the Tavernkeep, which consists of the <b>Apprentice's Hat<\/b>, <b>Apprentice's Robe<\/b> and <b>Apprentice's Trousers<\/b>.\n",
+    "stat": {
+        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/imgs\/Apprentice armor equipped (male).png\" alt=\"Apprentice armor equipped (male)\" title=\"Apprentice armor equipped (male)\" \/><\/li><li><img src=\".\/imgs\/Apprentice armor equipped (female).png\" alt=\"Apprentice armor equipped (female)\" title=\"Apprentice armor equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/imgs\/Stack digit 1.png\" alt=\"Stack digit 1\" title=\"Stack digit 1\" \/><\/span><\/div><\/div>",
+        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Defense<\/th><td>32<span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Set Bonus<\/th><td><i>Increases your max number of sentries<br>Flameburst field of view and range are dramatically increased<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">08*<\/s><img src=\".\/imgs\/Rarity level: 8.png\" alt=\"Rarity level: 8\" title=\"Rarity level: 8\" \/><\/span><\/td><\/tr><tr><th>Buy<\/th><td><span data-info=\"750000\" class=\"coins\" title=\"75 Defender Medals\"><s>750000*<\/s>75 <img src=\".\/imgs\/Defender Medal.png\" alt=\"Defender Medal\" title=\"Defender Medal\" \/><\/span> <span class=\"note-text\">(set)<\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15<\/span><\/span> <span class=\"note-text\">(set)<\/span><\/td><\/tr><\/tbody><\/table>"
+    },
+    "craft": []
+}
