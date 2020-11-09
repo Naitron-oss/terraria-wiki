@@ -8,21 +8,21 @@ use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class FetchFish extends Command
+class FetchWings extends Command
 {
-    protected static $defaultName = 'fetch:fish';
+    protected static $defaultName = 'fetch:wings';
 
     public function configure()
     {
         $this
-        ->setDescription('Fetch data of fish\'s type item');
+        ->setDescription('Fetch data of kite\'s type item');
     }
 
     public function getLists(OutputInterface $output) : array
     {
         $output->writeln('Mendapatkan data ...');
         $client = new Client();
-        $crawler = $client->request('GET', 'https://terraria.gamepedia.com/Angler/Quests');
+        $crawler = $client->request('GET', 'https://terraria.gamepedia.com/Wings');
 
         $list = $crawler->filter('tr td.il2c > span > span > span')->each(function ($node, $i) {
             return $node->text();
@@ -34,12 +34,13 @@ class FetchFish extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $get = new GetItems('Angler/Quests');
-        $crawler = $get->getCrawler('Angler/Quests');
+        $get = new GetItems('Wings');
+        $crawler = $get->getCrawler('Wings');
         $get->getTitle($crawler);
         $get->getInfo($crawler);
         $get->getStat($crawler);
         $get->getCraft($crawler, 'table.terraria');
+        $get->json['craft'] = array_splice($get->json['craft'], 0, 1);
 
         foreach ($this->getLists($output) as $item) {
             if ($item) {

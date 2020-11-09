@@ -55,13 +55,8 @@ class Get extends Command
         $table = $crawler->filter('.infobox.item table.stat')->each(function (Crawler $crawler) {
             return localify($crawler->outerHtml());
         });
-        
-        $image = $crawler->filter('.infobox.item .section.images')->each(function (Crawler $node, $i) {
-            return localify($node->outerHtml());
-        });
-        
-        $this->json['stat']['image'] = count($image) ? $image[0] : '';
-        $this->json['stat']['table'] = count($table) ? $table[0] : '';    
+
+        $this->json['stat'] = count($table) ? $table[0] : '';    
     }
 
     public function getCraft(Crawler $crawler, $mainFilter = '', $altFilter = '') : string

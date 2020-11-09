@@ -5,8 +5,6 @@ use App\Command\Items\Check as ItemsCheck;
 use App\Command\Items\Fetch as ItemsFetch;
 use App\Command\Items\Get as ItemsGet;
 use App\Command\Items\Make as ItemsMake;
-use App\Command\Items\FetchDyes;
-use App\Command\Items\FetchFish;
 use App\Command\Images\Get as ImagesGet;
 use App\Command\Images\FetchSprite;
 use App\Command\MakePage;
@@ -31,8 +29,11 @@ $app->addCommands([
 // Fetch
 $app->addCommands([
   new ItemsFetch(),
-  new FetchDyes(),
-  new FetchFish(),
+  new App\Command\Items\FetchDyes(),
+  new App\Command\Items\FetchFish(),
+  new App\Command\Items\FetchKites(),
+  new App\Command\Items\FetchStatues(),
+  new App\Command\Items\FetchWings(),
   new FetchSprite(),
 ]);
 
