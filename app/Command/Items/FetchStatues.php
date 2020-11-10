@@ -24,12 +24,16 @@ class FetchStatues extends Command
         $client = new Client();
         $crawler = $client->request('GET', 'https://terraria.gamepedia.com/Statues');
 
-        $list = $crawler->filter('.i.-w > span > span')->each(function ($node, $i) {
+        $table = $crawler->filter('td:nth-child(1) .i.-w > span > span')->each(function ($node, $i) {
+            return $node->text();
+        });
+
+        $itemlist = $crawler->filter('.itemlist .i.-w > span > span')->each(function ($node, $i) {
             return $node->text();
         });
 
         $output->writeln('Data berhasil diunduh.');
-        return $list;
+        return [...$table, ...$itemlist];
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)

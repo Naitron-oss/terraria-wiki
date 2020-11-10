@@ -43,7 +43,7 @@ class FetchWings extends Command
         $get->json['craft'] = array_splice($get->json['craft'], 0, 1);
 
         foreach ($this->getLists($output) as $item) {
-            if ($item) {
+            if (strlen($item) > 3) {
                 $name = str_replace("'", '', $item);
                 $name = str_replace("/", '_', $name);
                 $get->json['craft'][0]['title'] = 'Type';
