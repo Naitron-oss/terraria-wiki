@@ -1,8 +1,4 @@
 [
-    "Large Ruby",
-    "Large Sapphire",
-    "Large Topaz",
-    "Large Volcano",
     "Laser Drill",
     "Laser Machinegun",
     "Laser Rifle",
@@ -18,5 +14,9 @@
     "Lava Rocket",
     "Lava Serpent Bowl",
     "Lava Slime Banner",
-    "Lava Waders"
+    "Lava Waders",
+    "Lavafall Block",
+    "Lavafall Wall",
+    "Lavafly in a Bottle",
+    "Lavafly"
 ]

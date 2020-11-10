@@ -1,8 +1,4 @@
 [
-    "Solar Chest",
-    "Solar Clock",
-    "Solar Cultist Hood",
-    "Solar Cultist Robe",
     "Solar Door",
     "Solar Dresser",
     "Solar Dye",
@@ -18,5 +14,9 @@
     "Solar Flare Pickaxe",
     "Solar Fragment Block",
     "Solar Fragment",
-    "Solar Lamp"
+    "Solar Lamp",
+    "Solar Lantern",
+    "Solar Monolith",
+    "Solar Piano",
+    "Solar Platform"
 ]

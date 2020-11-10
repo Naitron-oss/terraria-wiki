@@ -1,8 +1,4 @@
 [
-    "Stardust Chest",
-    "Stardust Clock",
-    "Stardust Door",
-    "Stardust Dragon Staff",
     "Stardust Dresser",
     "Stardust Drill",
     "Stardust Dye",
@@ -18,5 +14,9 @@
     "Stardust Piano",
     "Stardust Pickaxe",
     "Stardust Plate",
-    "Stardust Platform"
+    "Stardust Platform",
+    "Stardust Sink",
+    "Stardust Sofa",
+    "Stardust Table",
+    "Stardust Toilet"
 ]

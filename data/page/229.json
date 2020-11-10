@@ -1,8 +1,4 @@
 [
-    "Tin Greaves",
-    "Tin Hammer",
-    "Tin Helmet",
-    "Tin Ore",
     "Tin Pickaxe",
     "Tin Plating Wall",
     "Tin Plating",
@@ -18,5 +14,9 @@
     "Titanium Crate",
     "Titanium Drill",
     "Titanium Forge",
-    "Titanium Headgear"
+    "Titanium Headgear",
+    "Titanium Helmet",
+    "Titanium Leggings",
+    "Titanium Mask",
+    "Titanium Ore"
 ]

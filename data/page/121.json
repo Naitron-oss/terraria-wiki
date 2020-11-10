@@ -1,8 +1,4 @@
 [
-    "Lihzahrd Bathtub",
-    "Lihzahrd Bed",
-    "Lihzahrd Bookcase",
-    "Lihzahrd Brick Wall",
     "Lihzahrd Brick",
     "Lihzahrd Candelabra",
     "Lihzahrd Candle",
@@ -18,5 +14,9 @@
     "Lihzahrd Lamp",
     "Lihzahrd Lantern",
     "Lihzahrd Piano",
-    "Lihzahrd Platform"
+    "Lihzahrd Platform",
+    "Lihzahrd Power Cell",
+    "Lihzahrd Pressure Plate",
+    "Lihzahrd Sink",
+    "Lihzahrd Sofa"
 ]

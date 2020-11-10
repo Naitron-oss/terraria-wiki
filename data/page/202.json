@@ -1,8 +1,4 @@
 [
-    "Skyware Clock",
-    "Skyware Door",
-    "Skyware Dresser",
-    "Skyware Lamp",
     "Skyware Lantern",
     "Skyware Piano",
     "Skyware Platform",
@@ -18,5 +14,9 @@
     "Slime Bathtub",
     "Slime Bed",
     "Slime Block Wall",
-    "Slime Block"
+    "Slime Block",
+    "Slime Bookcase",
+    "Slime Candelabra",
+    "Slime Candle",
+    "Slime Chair"
 ]

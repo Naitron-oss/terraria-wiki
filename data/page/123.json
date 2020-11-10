@@ -1,8 +1,4 @@
 [
-    "Liquid Sensor (Water)",
-    "Living Cursed Fire Block",
-    "Living Demon Fire Block",
-    "Living Fire Block",
     "Living Flame Dye",
     "Living Frost Fire Block",
     "Living Gore",
@@ -18,5 +14,9 @@
     "Living Wood Bookcase",
     "Living Wood Candelabra",
     "Living Wood Candle",
-    "Living Wood Chair"
+    "Living Wood Chair",
+    "Living Wood Chandelier",
+    "Living Wood Chest",
+    "Living Wood Clock",
+    "Living Wood Door"
 ]

@@ -1,8 +1,4 @@
 [
-    "Nebula Chandelier",
-    "Nebula Chest",
-    "Nebula Clock",
-    "Nebula Door",
     "Nebula Dresser",
     "Nebula Drill",
     "Nebula Dye",
@@ -18,5 +14,9 @@
     "Nebula Mantle",
     "Nebula Monolith",
     "Nebula Piano",
-    "Nebula Pickaxe"
+    "Nebula Pickaxe",
+    "Nebula Platform",
+    "Nebula Sink",
+    "Nebula Sofa",
+    "Nebula Table"
 ]

@@ -1,8 +1,4 @@
 [
-    "Marble Platform",
-    "Marble Sink",
-    "Marble Sofa",
-    "Marble Table",
     "Marble Toilet",
     "Marble Wall",
     "Marble Work Bench",
@@ -18,5 +14,9 @@
     "Martian Bed",
     "Martian Brainscrambler Banner",
     "Martian Chandelier",
-    "Martian Chest"
+    "Martian Chest",
+    "Martian Conduit Plating",
+    "Martian Conduit Wall",
+    "Martian Costume Mask",
+    "Martian Costume Pants"
 ]

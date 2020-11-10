@@ -1,8 +1,4 @@
 [
-    "Logic Gate (AND)",
-    "Logic Gate (NAND)",
-    "Logic Gate (NOR)",
-    "Logic Gate (OR)",
     "Logic Gate (XNOR)",
     "Logic Gate (XOR)",
     "Logic Gate Lamp (Faulty)",
@@ -18,5 +14,9 @@
     "Lokis Wings",
     "Loom",
     "Lost Hopes of Man Banner",
-    "Love Potion"
+    "Love Potion",
+    "Luck Potion",
+    "Lucky Coin",
+    "Lucky Horseshoe",
+    "Luminite Arrow"
 ]
