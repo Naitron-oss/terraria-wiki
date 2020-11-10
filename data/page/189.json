@@ -1,4 +1,8 @@
 [
+    "Sandstone Bed",
+    "Sandstone Block",
+    "Sandstone Bookcase",
+    "Sandstone Brick Wall",
     "Sandstone Brick",
     "Sandstone Candelabra",
     "Sandstone Candle",
@@ -14,9 +18,5 @@
     "Sandstone Piano",
     "Sandstone Platform",
     "Sandstone Sink",
-    "Sandstone Slab",
-    "Sandstone Sofa",
-    "Sandstone Table",
-    "Sandstone Toilet",
-    "Sandstone Wall"
+    "Sandstone Slab"
 ]

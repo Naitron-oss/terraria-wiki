@@ -1,4 +1,8 @@
 [
+    "Living Wood Chandelier",
+    "Living Wood Chest",
+    "Living Wood Clock",
+    "Living Wood Door",
     "Living Wood Dresser",
     "Living Wood Lamp",
     "Living Wood Lantern",
@@ -14,9 +18,5 @@
     "Lizard Ears",
     "Lizard Egg",
     "Lizard Tail",
-    "Lobster Tail",
-    "Logic Gate (AND)",
-    "Logic Gate (NAND)",
-    "Logic Gate (NOR)",
-    "Logic Gate (OR)"
+    "Lobster Tail"
 ]

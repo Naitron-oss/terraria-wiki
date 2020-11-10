@@ -1,9 +1,13 @@
 [
+    "Lihzahrd Power Cell",
+    "Lihzahrd Pressure Plate",
+    "Lihzahrd Sink",
     "Lihzahrd Sofa",
     "Lihzahrd Statue",
     "Lihzahrd Table",
     "Lihzahrd Toilet",
     "Lihzahrd Watcher Statue",
+    "Lihzahrd WatcherStatue",
     "Lihzahrd Work Bench",
     "Lime Dye",
     "Lime Golf Ball",
@@ -14,9 +18,5 @@
     "Lime and Silver Dye",
     "Liquid Sensor (Any)",
     "Liquid Sensor (Honey)",
-    "Liquid Sensor (Lava)",
-    "Liquid Sensor (Water)",
-    "Living Cursed Fire Block",
-    "Living Demon Fire Block",
-    "Living Fire Block"
+    "Liquid Sensor (Lava)"
 ]
