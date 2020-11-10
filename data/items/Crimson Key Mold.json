@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Crimson_Key_Mold",
     "title": "Biome Key Molds",
     "info": "<b>Biome Key Molds<\/b> are extremely rare Hardmode crafting materials that are used to craft Biome Keys, which open Biome Chests once Plantera is defeated. After the Wall of Flesh is defeated, every enemy killed within an eligible biome has a <span class=\"chance\"><s>0.04*<\/s>1\/2500 (0.04%)<\/span> chance of dropping a Biome Key Mold, with the exception of Meteor Heads and statue-spawned enemies. The type of key mold that is dropped depends on the biome the player is currently in (Jungle, Corruption, Crimson, Hallow, or Snow).\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/jungle key mold.png\" alt=\"jungle key mold\" title=\"jungle key mold\" \/> <img src=\".\/data\/images\/corruption key mold.png\" alt=\"corruption key mold\" title=\"corruption key mold\" \/> <img src=\".\/data\/images\/crimson key mold.png\" alt=\"crimson key mold\" title=\"crimson key mold\" \/> <img src=\".\/data\/images\/hallowed key mold.png\" alt=\"hallowed key mold\" title=\"hallowed key mold\" \/> <img src=\".\/data\/images\/frozen key mold.png\" alt=\"frozen key mold\" title=\"frozen key mold\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">08*<\/s><img src=\".\/data\/images\/rarity level: 8.png\" alt=\"rarity level: 8\" title=\"rarity level: 8\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">08*<\/s><img src=\".\/data\/images\/rarity level: 8.png\" alt=\"rarity level: 8\" title=\"rarity level: 8\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

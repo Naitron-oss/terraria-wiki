@@ -2,9 +2,6 @@
     "link": "https:\/\/terraria.gamepedia.com\/Apple_Pie_Slice",
     "title": "Apple Pie Slice",
     "info": "The <b>Apple Pie Slice<\/b> is an unobtainable item. It exists in the game code with the name 'Unknown'.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/apple pie slice.png\" alt=\"apple pie slice\" title=\"apple pie slice\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Food<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Medium improvements to all stats<br>'Mmmm... pie.'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Food<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Medium improvements to all stats<br>'Mmmm... pie.'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": []
 }

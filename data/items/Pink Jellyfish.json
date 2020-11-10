@@ -2,9 +2,6 @@
     "link": "https:\/\/terraria.gamepedia.com\/Pink_Jellyfish",
     "title": "Jellyfish",
     "info": "<b>Jellyfish<\/b> are enemies found in water. When underwater, they attack by propelling themselves towards the player in short bursts. When outside of water, they will be unable to move or pursue the player in any way. Jellyfish are able to jump out of the water to attack players, often leaving them stranded on land. Most varieties of Jellyfish produce light, making them easy to spot in dark areas. There are currently 5 Jellyfish variants, 3 of which only appear during Hardmode. <span class=\"eico\"><img src=\".\/data\/images\/console version.png\" alt=\"console version\" title=\"console version\" \/><\/span> Blue Jellyfish only spawn in pre-Hardmode and are replaced by the Green variant in Hardmode.\n",
-    "stat": {
-        "image": "",
-        "table": ""
-    },
+    "stat": "",
     "craft": []
 }

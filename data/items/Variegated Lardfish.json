@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Variegated_Lardfish",
     "title": "Variegated Lardfish",
     "info": "<b>Variegated Lardfish<\/b> are a type of fish which are found uncommonly by fishing in the Underground Jungle. They are used to craft Seafood Dinners and Summoning Potions.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/variegated lardfish.png\" alt=\"variegated lardfish\" title=\"variegated lardfish\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 999\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/data\/images\/rarity level: 1.png\" alt=\"rarity level: 1\" title=\"rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/data\/images\/rarity level: 1.png\" alt=\"rarity level: 1\" title=\"rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Silver Coins\" data-sort-value=\"1500\"><span class=\"sc\">15<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">3 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

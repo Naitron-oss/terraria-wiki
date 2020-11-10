@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Superhero_Tights",
     "title": "Superhero set",
     "info": "The <b>Superhero set<\/b> is a set of Vanity items made up of the <b>Superhero Mask<\/b>, the <b>Superhero Costume<\/b>, and the <b>Superhero Tights<\/b>.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/superhero set equipped (male).png\" alt=\"superhero set equipped (male)\" title=\"superhero set equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/superhero set equipped (female).png\" alt=\"superhero set equipped (female)\" title=\"superhero set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/data\/images\/rarity level: 3.png\" alt=\"rarity level: 3\" title=\"rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/data\/images\/rarity level: 3.png\" alt=\"rarity level: 3\" title=\"rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Recipes",

@@ -2,9 +2,6 @@
     "link": "https:\/\/terraria.gamepedia.com\/Dog_Tail",
     "title": "Dog set",
     "info": "The <b>Dog set<\/b> is a vanity set composed of the <b>Dog Tail<\/b> and <b>Dog Ears<\/b>. It can be purchased from the Zoologist during a Full Moon for <span class=\"coin\" title=\"6 Gold Coins\" data-sort-value=\"60000\"><span class=\"gc\">6<\/span><\/span>.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/dog set equipped (male).png\" alt=\"dog set equipped (male)\" title=\"dog set equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/dog set equipped (female).png\" alt=\"dog set equipped (female)\" title=\"dog set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": []
 }

@@ -2,9 +2,6 @@
     "link": "https:\/\/terraria.gamepedia.com\/Red's_Leggings",
     "title": "Red's set",
     "info": "<b>Red's set<\/b> is a vanity developer item set that can be obtained rarely (5% chance) from Hardmode Boss Treasure Bags in Expert Mode. It is the vanity set made for Redigit, lead developer of <i>Terraria<\/i>.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/reds set equipped.png\" alt=\"reds set equipped\" title=\"reds set equipped\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>'Great for impersonating devs!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">09*<\/s><img src=\".\/data\/images\/rarity level: 9.png\" alt=\"rarity level: 9\" title=\"rarity level: 9\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>'Great for impersonating devs!'<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">09*<\/s><img src=\".\/data\/images\/rarity level: 9.png\" alt=\"rarity level: 9\" title=\"rarity level: 9\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"15 Gold Coins\" data-sort-value=\"150000\"><span class=\"gc\">15<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": []
 }

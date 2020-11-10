@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Giant_Harpy_Feather",
     "title": "Giant Harpy Feather",
     "info": "The <b>Giant Harpy Feather<\/b> is a rare crafting material used solely to craft Harpy Wings. It has a 1\/200 (0.5%) chance of being dropped by Harpies.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/giant harpy feather.png\" alt=\"giant harpy feather\" title=\"giant harpy feather\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">05*<\/s><img src=\".\/data\/images\/rarity level: 5.png\" alt=\"rarity level: 5\" title=\"rarity level: 5\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2<\/span><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">05*<\/s><img src=\".\/data\/images\/rarity level: 5.png\" alt=\"rarity level: 5\" title=\"rarity level: 5\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Gold 50 Silver Coins\" data-sort-value=\"25000\"><span class=\"gc\">2<\/span><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

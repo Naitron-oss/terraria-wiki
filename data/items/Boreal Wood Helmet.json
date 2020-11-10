@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Boreal_Wood_Helmet",
     "title": "Boreal Wood armor",
     "info": "<b>Boreal Wood armor<\/b> is an armor set consisting of the <b>Boreal Wood Helmet<\/b>, <b>Boreal Wood Breastplate<\/b>, and <b>Boreal Wood Greaves<\/b>.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/boreal wood armor equipped (male).png\" alt=\"boreal wood armor equipped (male)\" title=\"boreal wood armor equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/boreal wood armor equipped (female).png\" alt=\"boreal wood armor equipped (female)\" title=\"boreal wood armor equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Defense<\/th><td>4 (3+1)<span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Set Bonus<\/th><td><i>1 defense<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Defense<\/th><td>4 (3+1)<span class=\"note-text\"> (set)<\/span><\/td><\/tr><tr><th>Set Bonus<\/th><td><i>1 defense<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Recipes",

@@ -1,11 +1,8 @@
 {
-    "link": "https:\/\/terraria.gamepedia.com\/Snow_Hood",
+    "link": "https:\/\/terraria.gamepedia.com\/Eskimo_Coat",
     "title": "Snow armor",
     "info": "The <b>Snow armor<\/b> is an armor set consisting of the <b>Snow Hood<\/b>, <b>Snow Coat<\/b>, and the <b>Snow Pants<\/b>. Each piece is very rarely dropped from Frozen Zombies, each having a 0.67% drop chance.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/snow armor equipped (male).png\" alt=\"snow armor equipped (male)\" title=\"snow armor equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/snow armor equipped (female).png\" alt=\"snow armor equipped (female)\" title=\"snow armor equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Armor<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

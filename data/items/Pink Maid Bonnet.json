@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Pink_Maid_Bonnet",
     "title": "Pink Maid set",
     "info": "The <b>Pink Maid set<\/b> is a vanity set consisting of the <b>Pink Maid Bonnet<\/b>, <b>Pink Maid Dress<\/b> and <b>Pink Maid Shoes<\/b>.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/pink maid set equipped (male).png\" alt=\"pink maid set equipped (male)\" title=\"pink maid set equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/pink maid set equipped (female).png\" alt=\"pink maid set equipped (female)\" title=\"pink maid set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/data\/images\/rarity level: 3.png\" alt=\"rarity level: 3\" title=\"rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">03*<\/s><img src=\".\/data\/images\/rarity level: 3.png\" alt=\"rarity level: 3\" title=\"rarity level: 3\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold 50 Silver Coins\" data-sort-value=\"15000\"><span class=\"gc\">1<\/span><span class=\"sc\">50<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Recipes",

@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Plaguebringer's_Treads",
     "title": "Plaguebringer's set",
     "info": "The <b>Plaguebringer set<\/b> is a vanity set consisting of the <b>Plaguebringer's Skull<\/b>, the <b>Plaguebringer's Cloak<\/b>, and the <b>Plaguebringer's Treads<\/b>. It is one of the six sets that were added as part of the Journey's End Vanity Contest; the original concept was submitted by SodaHunter.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/plaguebringers set equipped (male).png\" alt=\"plaguebringers set equipped (male)\" title=\"plaguebringers set equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/plaguebringers set equipped (female).png\" alt=\"plaguebringers set equipped (female)\" title=\"plaguebringers set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/data\/images\/rarity level: 2.png\" alt=\"rarity level: 2\" title=\"rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/data\/images\/rarity level: 2.png\" alt=\"rarity level: 2\" title=\"rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"2 Silver Coins\" data-sort-value=\"200\"><span class=\"sc\">2<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Recipes",

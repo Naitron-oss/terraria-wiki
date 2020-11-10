@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Jungle_Spores",
     "title": "Jungle Spores",
     "info": "<b>Jungle Spores<\/b> are crafting materials acquired by destroying green glowing orbs that grow randomly on Jungle grass in the Underground Jungle. Each orb drops 2-3 Jungle Spores.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/jungle spores.png\" alt=\"jungle spores\" title=\"jungle spores\" \/><\/li><li><img src=\".\/data\/images\/jungle spores placed.png\" alt=\"jungle spores placed\" title=\"jungle spores placed\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">25 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"20 Copper Coins\" data-sort-value=\"20\"><span class=\"cc\">20<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">25 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

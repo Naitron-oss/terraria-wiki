@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Cactus",
     "title": "Cactus",
     "info": "<b>Cactus<\/b> refers to a Desert plant, as well as the item which drops from that plant when it is harvested. <i>Skip to the plant or to the item below.<\/i>\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/cactus plant.png\" alt=\"cactus plant\" title=\"cactus plant\" \/> \u00a0 <img src=\".\/data\/images\/cactus item.png\" alt=\"cactus item\" title=\"cactus item\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Recipes",

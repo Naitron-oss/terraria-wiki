@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Tin_Can",
     "title": "Fishing",
     "info": "<b>Fishing<\/b> is an activity accomplished by using a Fishing Pole at a body of liquid (water, honey, or lava) while having bait in the player's inventory. While near the body of liquid, pressing the <span class=\"key\" style=\"display:inline-block; white-space:nowrap;\"><kbd style=\"color:black;border: 1px solid rgb(170, 170, 170);box-shadow: 0.1em 0.2em 0.2em rgb(221, 221, 221);border-radius: .2em;background-image: linear-gradient(to bottom, rgb(238, 238, 238), rgb(249, 249, 249), rgb(238, 238, 238));background-color: rgb(249, 249, 249);padding: 0.1em 0.4em 0.2em 0.3em;margin-right:2px;font-size:85%;font-family:inherit;font-style:normal;\"><span title=\"Left Click (PC default): Use held item or attack\"><span style=\"font-size:120%;\">\u2692<\/span> Use \/ Attack<\/span><\/kbd><\/span> button at a point over the liquid will cast a line into the liquid. Pressing the button again when the bobber moves up and down will reel in the line and often an item will come up with the line. The Angler NPC provides daily fishing quests and rewards their completion with an assortment of equipment, coins, potions, and vanity items.\n",
-    "stat": {
-        "image": "",
-        "table": ""
-    },
+    "stat": "",
     "craft": [
         {
             "title": "Used in",

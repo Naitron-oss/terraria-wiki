@@ -2,9 +2,6 @@
     "link": "https:\/\/terraria.gamepedia.com\/Dr._Man_Fly's_Lab_Coat",
     "title": "Dr. Man Fly set",
     "info": "The <b>Dr. Man Fly set<\/b> is a Hardmode vanity set consisting of the <b>Dr. Man Fly Mask<\/b> and the <b>Dr. Man Fly's Lab Coat<\/b>. It is dropped by Dr. Man Fly during the Solar Eclipse event.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/dr. man fly set equipped (male).png\" alt=\"dr. man fly set equipped (male)\" title=\"dr. man fly set equipped (male)\" \/><\/li><li><img src=\".\/data\/images\/dr. man fly set equipped (female).png\" alt=\"dr. man fly set equipped (female)\" title=\"dr. man fly set equipped (female)\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/data\/images\/rarity level: 2.png\" alt=\"rarity level: 2\" title=\"rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Vanity<\/span><span class=\"nowrap tag\">Set<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/data\/images\/rarity level: 2.png\" alt=\"rarity level: 2\" title=\"rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"1 Gold Coin\" data-sort-value=\"10000\"><span class=\"gc\">1<\/span><\/span><span class=\"note-text\"> (set)<\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": []
 }

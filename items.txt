@@ -666,7 +666,7 @@ Red's Wings
 Red's Helmet
 Red's Breastplate
 Red's Leggings
-Fish (item)
+Fish
 Ice Boomerang
 Keybrand
 Cutlass
@@ -800,9 +800,9 @@ Blood Lust Cluster
 The Undertaker
 The Meatball
 The Rotted Fork
-Snow Hood
-Snow Coat
-Snow Pants
+Eskimo Hood
+Eskimo Coat
+Eskimo Pants
 Living Wood Chair
 Cactus Chair
 Bone Chair
@@ -975,9 +975,9 @@ Ice Torch
 Shoe Spikes
 Tiger Climbing Gear
 Tabi
-Pink Snow Hood
-Pink Snow Coat
-Pink Snow Pants
+Pink Eskimo Hood
+Pink Eskimo Coat
+Pink Eskimo Pants
 Pink Thread
 Mana Regeneration Band
 Sandstorm in a Balloon
@@ -3702,8 +3702,6 @@ Trapped Martian Chest
 Trapped Meteorite Chest
 Trapped Granite Chest
 Trapped Marble Chest
-Fake new chest 1
-Fake new chest 2
 Teal Pressure Pad
 Wall Creeper Statue
 Unicorn Statue
@@ -3844,21 +3842,13 @@ Wither Beast Banner
 Etherian Wyvern Banner
 Etherian Javelin Thrower Banner
 Etherian Lightning Bug Banner
-Ogre Mask
-Goblin Mask
-Goblin Bomber Cap
-Etherian Javelin
-Kobold Dynamite Backpack
 Tome of Infinite Wisdom
-Boring Bow
 Phantom Phoenix
 Gato Egg
 Creeper Egg
 Dragon Egg
 Sky Dragon's Fury
 Aerial Bane
-Treasure Bag
-Treasure Bag
 Treasure Bag
 Betsy Mask
 Dark Mage Mask
@@ -3975,7 +3965,6 @@ Lesion Table
 Lesion Work Bench
 Trapped Lesion Chest
 Hat Rack
-Color Only Dye
 Pearlwood Crate
 Mythril Crate
 Titanium Crate
@@ -4140,7 +4129,6 @@ Spider Nest Block
 Spider Nest Wall
 Meteor Toilet
 Decay Chamber
-Mana Cloak Star
 Terragrim
 Solar Bathtub
 Solar Bed
@@ -4719,7 +4707,6 @@ Rich Mahogany Beam
 Granite Column
 Sandstone Column
 Mushroom Beam
-First Fractal
 Nevermore
 Reborn
 Graveyard
@@ -5010,7 +4997,6 @@ Teacup
 Treasure Magnet
 Mace
 Flaming Mace
-Sleeping Icon
 Otherworldly Music Box (Rain)
 Otherworldly Music Box (Overworld Day)
 Otherworldly Music Box (Night)

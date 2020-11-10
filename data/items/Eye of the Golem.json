@@ -1,11 +1,8 @@
 {
     "link": "https:\/\/terraria.gamepedia.com\/Eye_of_the_Golem",
     "title": "Eye of the Golem",
-    "info": "The <b>Eye of the Golem<\/b> is a Hardmode, post-Golem accessory that grants +10% critical strike chance. It has a <span class=\"chance\"><s>12.5*<\/s>1\/8 (12.5%)<\/span> chance of being dropped by Golem.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/eye of the golem.png\" alt=\"eye of the golem\" title=\"eye of the golem\" \/>\u2002<img src=\".\/data\/images\/old eye of the golem.png\" alt=\"old eye of the golem\" title=\"old eye of the golem\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>10% increased critical strike chance<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">07*<\/s><img src=\".\/data\/images\/rarity level: 7.png\" alt=\"rarity level: 7\" title=\"rarity level: 7\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
-    },
+    "info": "The <b>Eye of the Golem<\/b> is a Hardmode, post-Golem accessory that grants +10% critical strike chance. It has a 1\/8 (12.5%) on Console and 3DS or 1\/7 (14.29%) on Desktop and Mobile chance of being dropped by Golem.\n",
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>10% increased critical strike chance<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">07*<\/s><img src=\".\/data\/images\/rarity level: 7.png\" alt=\"rarity level: 7\" title=\"rarity level: 7\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"5 Gold Coins\" data-sort-value=\"50000\"><span class=\"gc\">5<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

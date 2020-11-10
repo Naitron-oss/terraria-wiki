@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Mechanical_Wheel_Piece",
     "title": "Mechanical Wheel Piece",
     "info": "The <b>Mechanical Wheel Piece<\/b> is one of three parts of the Mechanical Cart, obtained from a Treasure Bag by killing The Twins in Expert Mode.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/mechanical wheel piece.png\" alt=\"mechanical wheel piece\" title=\"mechanical wheel piece\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">12*<\/s><img src=\".\/data\/images\/rarity level: rainbow.png\" alt=\"rarity level: rainbow\" title=\"rarity level: rainbow\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">12*<\/s><img src=\".\/data\/images\/rarity level: rainbow.png\" alt=\"rarity level: rainbow\" title=\"rarity level: rainbow\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

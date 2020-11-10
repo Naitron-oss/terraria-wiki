@@ -2,9 +2,6 @@
     "link": "https:\/\/terraria.gamepedia.com\/Mana_Booster",
     "title": "Mana Booster",
     "info": "A <b>Mana Booster<\/b> is one of the three power-ups occasionally dropped when striking an enemy while wearing a full set of Nebula armor. When picked up, it grants the <b>Mana Nebula<\/b> buff which immediately provides the player with an increased mana regeneration rate for 8 seconds. When a Mana Booster is picked up while the Mana Nebula buff is already in effect, it stacks with the previous Mana Nebula, for up to 3 stacked boosts. Every 8 seconds, one stacked Mana Booster expires, and the Mana Nebula buff decreases by one level.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/mana booster.png\" alt=\"mana booster\" title=\"mana booster\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Potion<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": []
 }

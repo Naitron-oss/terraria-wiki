@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Radar",
     "title": "Radar",
     "info": "The <b>Radar<\/b> is an informational accessory which displays the number of nearby enemies. It is one of the ingredients of the\u00a0R.E.K. 3000, the others being the Lifeform Analyzer, and the Tally Counter, and as such is a required ingredient in making the Cell Phone.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/radar.png\" alt=\"radar\" title=\"radar\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 1\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 1.png\" alt=\"stack digit 1\" title=\"stack digit 1\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Detects enemies around you<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/data\/images\/rarity level: 1.png\" alt=\"rarity level: 1\" title=\"rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Accessory<\/span><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Detects enemies around you<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">01*<\/s><img src=\".\/data\/images\/rarity level: 1.png\" alt=\"rarity level: 1\" title=\"rarity level: 1\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"50 Silver Coins\" data-sort-value=\"5000\"><span class=\"sc\">50<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">1 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Used in",

@@ -2,10 +2,7 @@
     "link": "https:\/\/terraria.gamepedia.com\/Black_Thread",
     "title": "Threads",
     "info": "<b>Threads<\/b> are crafting materials used primarily in vanity items.\n",
-    "stat": {
-        "image": "<div class=\"section images\"><ul class=\"infobox-inline\"><li><img src=\".\/data\/images\/black thread.png\" alt=\"black thread\" title=\"black thread\" \/> <img src=\".\/data\/images\/pink thread.png\" alt=\"pink thread\" title=\"pink thread\" \/> <img src=\".\/data\/images\/green thread.png\" alt=\"green thread\" title=\"green thread\" \/> <img src=\".\/data\/images\/purple thread.png\" alt=\"purple thread\" title=\"purple thread\" \/> <img src=\".\/data\/images\/white thread.png\" alt=\"white thread\" title=\"white thread\" \/><\/li><\/ul><div class=\"stack\" title=\"Max stack: 99\"><span style=\"cursor:pointer\"><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><img src=\".\/data\/images\/stack digit 9.png\" alt=\"stack digit 9\" title=\"stack digit 9\" \/><\/span><\/div><\/div>",
-        "table": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>"
-    },
+    "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Crafting material<\/span><\/div><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">00*<\/s><img src=\".\/data\/images\/rarity level: 0.png\" alt=\"rarity level: 0\" title=\"rarity level: 0\" \/><\/span><\/td><\/tr><\/tbody><\/table>",
     "craft": [
         {
             "title": "Recipes",
