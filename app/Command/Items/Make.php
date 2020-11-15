@@ -43,9 +43,13 @@ class Make extends Command
         $progress->setMessage('Mulai menulis file');
         foreach ($items as $key => $item) {
             $key += 1;
-            file_put_contents('./items.txt', "$item\n", FILE_APPEND);
+            $item = str_replace("'", '', $item);
+            $exclude = ['Fish'];
+            if (!in_array($item, $exclude)) {
+                file_put_contents('./items.txt', "$item\n", FILE_APPEND);
+                $progress->setMessage("Menambahkan [<fg=blue>$key</>] <fg=cyan>$item</>");
+            }
             $progress->advance();
-            $progress->setMessage("Menambahkan [<fg=blue>$key</>] <fg=cyan>$item</>");
         }
         $progress->finish();
 
