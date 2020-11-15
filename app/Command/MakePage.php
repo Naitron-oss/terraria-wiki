@@ -48,9 +48,11 @@ class MakePage extends Command
         // $output->writeln("[<fg=green>Ok</>] pagination.json");
 
         $json = [];
-        foreach (glob('./data/items/*.json') as $file) {
-            $title = basename($file, '.json');
-            $json[] = $title;
+        foreach (explode("\n", file_get_contents('./items.txt')) as $file) {
+            $exclude = ['Fish'];
+            if (!in_array($file, $exclude)) {
+                $json[] = str_replace("'", '', $file);
+            }
         };
         file_put_contents('./data/items.json', json_encode($json, JSON_PRETTY_PRINT));
         $output->writeln("[<fg=green>Ok</>] items.json");
