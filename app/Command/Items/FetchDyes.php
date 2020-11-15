@@ -57,11 +57,13 @@ class FetchDyes extends Command
         $get->getStat($crawler);
         $get->getCraft($crawler, '.terraria.lined.align-center');
         $headline = $get->customCraft($headline, $info);
+        $get->saveJson("_Dyes");
 
         foreach ($this->getColors($crawler) as $color) {
             $name = str_replace("'", '', $color);
             $name = str_replace("/", '_', $name);
-            $get->saveJson("$name");
+            $get->json = ['refer' => '_Dyes'];
+            $get->saveJson($name);
             $output->writeln("[<fg=green>Ok</>] $name.json ($headline)");
         }
 

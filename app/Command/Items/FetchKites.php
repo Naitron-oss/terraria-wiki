@@ -40,13 +40,15 @@ class FetchKites extends Command
         $get->getInfo($crawler);
         $get->getStat($crawler);
         $get->getCraft($crawler, 'table.terraria');
+        $get->json['craft'][0]['title'] = 'Type';
+        $get->saveJson('_Kites');
 
         foreach ($this->getLists($output) as $item) {
             if ($item) {
                 $name = str_replace("'", '', $item);
                 $name = str_replace("/", '_', $name);
-                $get->json['craft'][0]['title'] = 'Type';
-                $get->saveJson("$name");
+                $get->json = ['refer' => '_Kites'];
+                $get->saveJson($name);
                 $output->writeln("[<fg=green>Ok</>] $name.json (Type)");
             }
         }

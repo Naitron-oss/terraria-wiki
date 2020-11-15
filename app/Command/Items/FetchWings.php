@@ -41,13 +41,15 @@ class FetchWings extends Command
         $get->getStat($crawler);
         $get->getCraft($crawler, 'table.terraria');
         $get->json['craft'] = array_splice($get->json['craft'], 0, 1);
+        $get->json['craft'][0]['title'] = 'Type';
+        $get->saveJson("_Wings");
 
         foreach ($this->getLists($output) as $item) {
             if (strlen($item) > 3) {
                 $name = str_replace("'", '', $item);
                 $name = str_replace("/", '_', $name);
-                $get->json['craft'][0]['title'] = 'Type';
-                $get->saveJson("$name");
+                $get->json = ['refer' => '_Wings'];
+                $get->saveJson($name);
                 $output->writeln("[<fg=green>Ok</>] $name.json (Type)");
             }
         }

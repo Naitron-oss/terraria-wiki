@@ -51,12 +51,14 @@ class FetchStatues extends Command
         $crawler = $dec->getCrawler('Statues');
         $headline2 = $dec->getCraft($crawler, '.itemlist.terraria');
         $get->json['craft'] = [...$get->json['craft'], ...$dec->json['craft']];
+        $get->saveJson('_Statues');
 
         foreach ($this->getLists($output) as $item) {
             if ($item) {
                 $name = str_replace("'", '', $item);
                 $name = str_replace("/", '_', $name);
-                $get->saveJson("$name");
+                $get->json = ['refer' => '_Statues'];
+                $get->saveJson($name);
                 $output->writeln("[<fg=green>Ok</>] $name.json ($headline, $headline2)");
             }
         }
