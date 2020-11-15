@@ -1,7 +1,7 @@
 {
     "link": "https:\/\/terraria.gamepedia.com\/Obsidian_Lock_Box",
     "title": "Obsidian Lock Box",
-    "info": "The <b>Obsidian Lock Box<\/b> is a grab bag-type item which can be obtained from Obsidian or Hellstone Crates with 100% chance. It always contains one rare item normally found in locked Shadow Chests in the Underworld. It requires a Shadow Key to be in the player\u2019s inventory to open the box, which can be found in locked Gold Chests or Golden Lock Boxes in the Dungeon.\n",
+    "info": "The <b>Obsidian Lock Box<\/b> is a grab bag-type item which is obtained from Obsidian and Hellstone Crates with a 100% chance. It always contains one rare item normally found in locked Shadow Chests in the Underworld. It requires a Shadow Key to be in the player's inventory to open the box, which can be found in locked Gold Chests or Golden Lock Boxes in the Dungeon.\n",
     "stat": "<table class=\"stat\"><tbody><tr><th>Type<\/th><td><div class=\"tags\"><span class=\"nowrap tag\">Grab bag<\/span><\/div><\/td><\/tr><tr><th>Tooltip<\/th><td><i>Right click to open<br>Requires a Shadow Key<\/i><\/td><\/tr><tr><th>Rarity<\/th><td><span class=\"rarity\"><s style=\"display:none;\">02*<\/s><img src=\".\/data\/images\/rarity level: 2.png\" alt=\"rarity level: 2\" title=\"rarity level: 2\" \/><\/span><\/td><\/tr><tr><th>Sell<\/th><td><span class=\"coin\" title=\"40 Silver Coins\" data-sort-value=\"4000\"><span class=\"sc\">40<\/span><\/span><\/td><\/tr><tr><th>Research<\/th><td><abbr style=\"color:#C70A7D;font-weight:bold;\" title=\"Journey Mode\">10 required<\/abbr><\/td><\/tr><\/tbody><\/table>",
     "craft": []
 }
