@@ -800,9 +800,9 @@ Blood Lust Cluster
 The Undertaker
 The Meatball
 The Rotted Fork
-Eskimo Hood
-Eskimo Coat
-Eskimo Pants
+Snow Hood
+Snow Coat
+Snow Pants
 Living Wood Chair
 Cactus Chair
 Bone Chair
@@ -975,9 +975,9 @@ Ice Torch
 Shoe Spikes
 Tiger Climbing Gear
 Tabi
-Pink Eskimo Hood
-Pink Eskimo Coat
-Pink Eskimo Pants
+Pink Snow Hood
+Pink Snow Coat
+Pink Snow Pants
 Pink Thread
 Mana Regeneration Band
 Sandstorm in a Balloon
@@ -2276,7 +2276,7 @@ Magic Hat
 Diamond Ring
 Gi
 Kimono
-Gypsy Robe
+Mystic Robe
 Beetle Wings
 Tiger Skin
 Leopard Skin
