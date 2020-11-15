@@ -43,12 +43,12 @@ Shuriken
 Suspicious Looking Eye
 Demon Bow
 War Axe of the Night
-Light's Bane
+Lights Bane
 Unholy Arrow
 Chest
 Band of Regeneration
 Magic Mirror
-Jester's Arrow
+Jesters Arrow
 Angel Statue
 Cloud in a Bottle
 Hermes Boots
@@ -159,7 +159,7 @@ Lucky Horseshoe
 Shiny Red Balloon
 Harpoon
 Spiky Ball
-Ball O' Hurt
+Ball O Hurt
 Blue Moon
 Handgun
 Water Bolt
@@ -220,7 +220,7 @@ Phoenix Blaster
 Sunfury
 Hellforge
 Clay Pot
-Nature's Gift
+Natures Gift
 Bed
 Silk
 Lesser Restoration Potion
@@ -241,16 +241,16 @@ Tuxedo Shirt
 Tuxedo Pants
 Summer Hat
 Bunny Hood
-Plumber's Hat
-Plumber's Shirt
-Plumber's Pants
-Hero's Hat
-Hero's Shirt
-Hero's Pants
+Plumbers Hat
+Plumbers Shirt
+Plumbers Pants
+Heros Hat
+Heros Shirt
+Heros Pants
 Fish Bowl
-Archaeologist's Hat
-Archaeologist's Jacket
-Archaeologist's Pants
+Archaeologists Hat
+Archaeologists Jacket
+Archaeologists Pants
 Black Thread
 Green Thread
 Ninja Hood
@@ -270,7 +270,7 @@ Familiar Shirt
 Familiar Pants
 Familiar Wig
 Demon Scythe
-Night's Edge
+Nights Edge
 Dark Lance
 Coral
 Cactus
@@ -322,8 +322,8 @@ Tombstone
 Mime Mask
 Antlion Mandible
 Illegal Gun Parts
-The Doctor's Shirt
-The Doctor's Pants
+The Doctors Shirt
+The Doctors Pants
 Golden Key
 Shadow Chest
 Shadow Key
@@ -395,7 +395,7 @@ Diving Gear
 GPS
 Obsidian Horseshoe
 Obsidian Shield
-Tinkerer's Workshop
+Tinkerers Workshop
 Cloud in a Balloon
 Adamantite Headgear
 Adamantite Helmet
@@ -494,7 +494,7 @@ Angel Wings
 Magical Harp
 Rainbow Rod
 Ice Rod
-Neptune's Shell
+Neptunes Shell
 Mannequin
 Greater Healing Potion
 Greater Mana Potion
@@ -532,7 +532,7 @@ Spell Tome
 Star Cloak
 Megashark
 Shotgun
-Philosopher's Stone
+Philosophers Stone
 Titan Glove
 Cobalt Naginata
 Switch
@@ -662,17 +662,16 @@ Pearlwood Bow
 Rainbow Brick
 Rainbow Brick Wall
 Ice Block
-Red's Wings
-Red's Helmet
-Red's Breastplate
-Red's Leggings
-Fish
+Reds Wings
+Reds Helmet
+Reds Breastplate
+Reds Leggings
 Ice Boomerang
 Keybrand
 Cutlass
 Boreal Wood Work Bench
 True Excalibur
-True Night's Edge
+True Nights Edge
 Frostbrand
 Boreal Wood Table
 Red Potion
@@ -845,7 +844,7 @@ Bee Pants
 World Banner
 Sun Banner
 Gravity Banner
-Pharaoh's Mask
+Pharaohs Mask
 Actuator
 Blue Wrench
 Green Wrench
@@ -863,10 +862,10 @@ Star Veil
 Water Walking Boots
 Tiara
 Princess Dress
-Pharaoh's Robe
+Pharaohs Robe
 Green Cap
 Mushroom Cap
-Tam O' Shanter
+Tam O Shanter
 Mummy Mask
 Mummy Shirt
 Mummy Pants
@@ -935,7 +934,7 @@ Flying Carpet
 Avenger Emblem
 Mechanical Glove
 Land Mine
-Paladin's Shield
+Paladins Shield
 Web Slinger
 Jungle Water Fountain
 Icy Water Fountain
@@ -991,7 +990,7 @@ Pickaxe Axe
 Cobalt Waraxe
 Mythril Waraxe
 Adamantite Waraxe
-Eater's Bone
+Eaters Bone
 Blend-O-Matic
 Meat Grinder
 Extractinator
@@ -1438,7 +1437,7 @@ Unicorn Crossing the Hallows
 Great Wave
 Starry Night
 Guide Picasso
-The Guardian's Gaze
+The Guardians Gaze
 Father of Someone
 Nurse Lisa
 Shadowbeam Staff
@@ -1476,7 +1475,7 @@ Darkness
 Dark Soul Reaper
 Land
 Trapped Ghost
-Demon's Eye
+Demons Eye
 Finding Gold
 First Encounter
 Good Morning
@@ -1510,7 +1509,7 @@ Gothic Chair
 Gothic Table
 Gothic Work Bench
 Gothic Bookcase
-Paladin's Hammer
+Paladins Hammer
 SWAT Helmet
 Bee Wings
 Giant Harpy Feather
@@ -1551,21 +1550,21 @@ Shroomite Leggings
 Autohammer
 Shroomite Bar
 S.D.M.G.
-Cenx's Tiara
-Cenx's Breastplate
-Cenx's Leggings
-Crowno's Mask
-Crowno's Breastplate
-Crowno's Leggings
-Will's Helmet
-Will's Breastplate
-Will's Leggings
-Jim's Helmet
-Jim's Breastplate
-Jim's Leggings
-Aaron's Helmet
-Aaron's Breastplate
-Aaron's Leggings
+Cenxs Tiara
+Cenxs Breastplate
+Cenxs Leggings
+Crownos Mask
+Crownos Breastplate
+Crownos Leggings
+Wills Helmet
+Wills Breastplate
+Wills Leggings
+Jims Helmet
+Jims Breastplate
+Jims Leggings
+Aarons Helmet
+Aarons Breastplate
+Aarons Leggings
 Vampire Knives
 Broken Hero Sword
 Scourge of the Corruptor
@@ -1577,15 +1576,15 @@ Rare Enchantment
 Glorious Night
 Sweetheart Necklace
 Flurry Boots
-D-Town's Helmet
-D-Town's Breastplate
-D-Town's Leggings
-D-Town's Wings
-Will's Wings
-Crowno's Wings
-Cenx's Wings
-Cenx's Dress
-Cenx's Dress Pants
+D-Towns Helmet
+D-Towns Breastplate
+D-Towns Leggings
+D-Towns Wings
+Wills Wings
+Crownos Wings
+Cenxs Wings
+Cenxs Dress
+Cenxs Dress Pants
 Palladium Column
 Palladium Column Wall
 Bubblegum Block
@@ -1736,7 +1735,7 @@ Soul Cake
 Nurse Hat
 Nurse Shirt
 Nurse Pants
-Wizard's Hat
+Wizards Hat
 Guy Fawkes Mask
 Dye Trader Robe
 Steampunk Goggles
@@ -1781,8 +1780,8 @@ Karate Tortoise Shirt
 Karate Tortoise Pants
 Candy Corn Rifle
 Candy Corn
-Jack 'O Lantern Launcher
-Explosive Jack 'O Lantern
+Jack O Lantern Launcher
+Explosive Jack O Lantern
 Sickle
 Pumpkin Pie
 Scarecrow Hat
@@ -1805,12 +1804,12 @@ Corruption Key Mold
 Crimson Key Mold
 Hallowed Key Mold
 Frozen Key Mold
-Hanging Jack 'O Lantern
+Hanging Jack O Lantern
 Rotten Egg
 Unlucky Yarn
 Black Fairy Dust
 Jackelier
-Jack 'O Lantern
+Jack O Lantern
 Spooky Chair
 Spooky Door
 Spooky Table
@@ -1823,7 +1822,7 @@ Fox Shirt
 Fox Pants
 Cat Ears
 Bloody Machete
-The Horseman's Blade
+The Horsemans Blade
 Bladed Glove
 Pumpkin Seed
 Spooky Hook
@@ -1846,7 +1845,7 @@ Necromantic Scroll
 Jacking Skeletron
 Bitter Harvest
 Blood Moon Countess
-Hallow's Eve
+Hallows Eve
 Morbid Curiosity
 Treasure Hunter Shirt
 Treasure Hunter Pants
@@ -1854,7 +1853,7 @@ Dryad Coverings
 Dryad Loincloth
 Mourning Wood Trophy
 Pumpking Trophy
-Jack 'O Lantern Mask
+Jack O Lantern Mask
 Sniper Scope
 Heart Lantern
 Jellyfish Diving Gear
@@ -1956,7 +1955,7 @@ Krampus Horn Wallpaper
 Bluegreen Wallpaper
 Grinch Finger Wallpaper
 Naughty Present
-Baby Grinch's Mischief Whistle
+Baby Grinchs Mischief Whistle
 Ice Queen Trophy
 Santa-NK1 Trophy
 Everscream Trophy
@@ -2219,7 +2218,7 @@ Beetle Husk
 Celestial Magnet
 Celestial Emblem
 Celestial Cuffs
-Peddler's Hat
+Peddlers Hat
 Pulse Bow
 Large Dynasty Lantern
 Dynasty Lamp
@@ -2292,8 +2291,8 @@ Reinforced Fishing Pole
 Fiberglass Fishing Pole
 Fisher of Souls
 Golden Fishing Rod
-Mechanic's Rod
-Sitting Duck's Fishing Pole
+Mechanics Rod
+Sitting Ducks Fishing Pole
 Trout
 Salmon
 Atlantic Cod
@@ -2440,7 +2439,7 @@ Blue Jellyfish Jar
 Green Jellyfish Jar
 Pink Jellyfish Jar
 Life Preserver
-Ship's Wheel
+Ships Wheel
 Compass Rose
 Wall Anchor
 Goldfish Trophy
@@ -2477,7 +2476,7 @@ Angelfish
 Bloody Manowar
 Bonefish
 Bunnyfish
-Cap'n Tunabeard
+Capn Tunabeard
 Clownfish
 Demonic Hellfish
 Derpfish
@@ -2699,42 +2698,42 @@ Midnight Confetti Wall
 Weapon Rack
 Fireworks Box
 Living Fire Block
-'0' Statue
-'1' Statue
-'2' Statue
-'3' Statue
-'4' Statue
-'5' Statue
-'6' Statue
-'7' Statue
-'8' Statue
-'9' Statue
-'A' Statue
-'B' Statue
-'C' Statue
-'D' Statue
-'E' Statue
-'F' Statue
-'G' Statue
-'H' Statue
-'I' Statue
-'J' Statue
-'K' Statue
-'L' Statue
-'M' Statue
-'N' Statue
-'O' Statue
-'P' Statue
-'Q' Statue
-'R' Statue
-'S' Statue
-'T' Statue
-'U' Statue
-'V' Statue
-'W' Statue
-'X' Statue
-'Y' Statue
-'Z' Statue
+0 Statue
+1 Statue
+2 Statue
+3 Statue
+4 Statue
+5 Statue
+6 Statue
+7 Statue
+8 Statue
+9 Statue
+A Statue
+B Statue
+C Statue
+D Statue
+E Statue
+F Statue
+G Statue
+H Statue
+I Statue
+J Statue
+K Statue
+L Statue
+M Statue
+N Statue
+O Statue
+P Statue
+Q Statue
+R Statue
+S Statue
+T Statue
+U Statue
+V Statue
+W Statue
+X Statue
+Y Statue
+Z Statue
 Firework Fountain
 Booster Track
 Grasshopper
@@ -2885,7 +2884,7 @@ Unicorn Wisp Dye
 Infernal Wisp Dye
 Vicious Powder
 Vicious Mushroom
-The Bee's Knees
+The Bees Knees
 Gold Bird
 Gold Bunny
 Gold Butterfly
@@ -2929,7 +2928,7 @@ Green Slime Banner
 Headless Horseman Banner
 Hell Armored Bones Banner
 Hellhound Banner
-Hoppin' Jack Banner
+Hoppin Jack Banner
 Ice Bat Banner
 Ice Golem Banner
 Ice Slime Banner
@@ -3021,7 +3020,7 @@ Tendon Hook
 Thorn Hook
 Illuminant Hook
 Worm Hook
-Skiphs' Blood
+Skiphs Blood
 Purple Ooze Dye
 Reflective Silver Dye
 Reflective Gold Dye
@@ -3095,7 +3094,7 @@ Javelin
 Tally Counter
 Sextant
 Shield of Cthulhu
-Butcher's Chainsaw
+Butchers Chainsaw
 Stopwatch
 Meteorite Brick
 Meteorite Brick Wall
@@ -3117,7 +3116,7 @@ Bouncy Grenade
 Peace Candle
 Lifeform Analyzer
 DPS Meter
-Fisherman's Pocket Guide
+Fishermans Pocket Guide
 Goblin Tech
 R.E.K. 3000
 PDA
@@ -3223,9 +3222,9 @@ Fireblossom Planter Box
 Brain of Confusion
 Worm Scarf
 Balloon Pufferfish
-Lazure's Valkyrie Circlet
-Lazure's Valkyrie Cloak
-Lazure's Barrier Platform
+Lazures Valkyrie Circlet
+Lazures Valkyrie Cloak
+Lazures Barrier Platform
 Golden Cross Grave Marker
 Golden Tombstone
 Golden Grave Marker
@@ -3239,13 +3238,13 @@ Crystal Block Wall
 Trap Door
 Tall Gate
 Sharkron Balloon
-Tax Collector's Hat
-Tax Collector's Suit
-Tax Collector's Pants
+Tax Collectors Hat
+Tax Collectors Suit
+Tax Collectors Pants
 Bone Glove
-Clothier's Jacket
-Clothier's Pants
-Dye Trader's Turban
+Clothiers Jacket
+Clothiers Pants
+Dye Traders Turban
 Deadly Sphere Staff
 Green Horseshoe Balloon
 Amber Horseshoe Balloon
@@ -3284,7 +3283,7 @@ Chik
 Code 2
 Rally
 Yelets
-Red's Throw
+Reds Throw
 Valkyrie Yoyo
 Amarok
 Hel-Fire
@@ -3575,28 +3574,28 @@ Vortex Fragment Block
 Nebula Fragment Block
 Stardust Fragment Block
 Suspicious Looking Tentacle
-Yoraiz0r's Uniform
-Yoraiz0r's Skirt
-Yoraiz0r's Spell
-Yoraiz0r's Scowl
-Jim's Wings
-Yoraiz0r's Recolored Goggles
+Yoraiz0rs Uniform
+Yoraiz0rs Skirt
+Yoraiz0rs Spell
+Yoraiz0rs Scowl
+Jims Wings
+Yoraiz0rs Recolored Goggles
 Living Leaf Wall
-Skiphs' Mask
-Skiphs' Skin
-Skiphs' Bear Butt
-Skiphs' Paws
-Loki's Helmet
-Loki's Breastplate
-Loki's Greaves
-Loki's Wings
+Skiphs Mask
+Skiphs Skin
+Skiphs Bear Butt
+Skiphs Paws
+Lokis Helmet
+Lokis Breastplate
+Lokis Greaves
+Lokis Wings
 Sand Slime Banner
 Sea Snail Banner
 Moon Lord Trophy
 Not a Kid, nor a Squid
 Burning Hades Dye
 Grim Dye
-Loki's Dye
+Lokis Dye
 Shadowflame Hades Dye
 Celestial Sigil
 Logic Gate Lamp (Off)
@@ -3752,20 +3751,20 @@ Snowfall Wall
 Sandfall Block
 Snowfall Block
 Snow Cloud
-Pedguin's Hood
-Pedguin's Jacket
-Pedguin's Trousers
+Pedguins Hood
+Pedguins Jacket
+Pedguins Trousers
 Silly Pink Balloon Wall
 Silly Purple Balloon Wall
 Silly Green Balloon Wall
-0x33's Aviators
+0x33s Aviators
 Blue Phasesaber
 Red Phasesaber
 Green Phasesaber
 Purple Phasesaber
 White Phasesaber
 Yellow Phasesaber
-Djinn's Curse
+Djinns Curse
 Ancient Horn
 Mandible Blade
 Ancient Headdress
@@ -3792,23 +3791,23 @@ Angry Tumbler Banner
 Ancient Cloth
 Desert Spirit Lamp
 Music Box (Sandstorm)
-Apprentice's Hat
-Apprentice's Robe
-Apprentice's Trousers
-Squire's Great Helm
-Squire's Plating
-Squire's Greaves
-Huntress's Wig
-Huntress's Jerkin
-Huntress's Pants
-Monk's Bushy Brow Bald Cap
-Monk's Shirt
-Monk's Pants
-Apprentice's Scarf
-Squire's Shield
-Huntress's Buckler
-Monk's Belt
-Defender's Forge
+Apprentices Hat
+Apprentices Robe
+Apprentices Trousers
+Squires Great Helm
+Squires Plating
+Squires Greaves
+Huntresss Wig
+Huntresss Jerkin
+Huntresss Pants
+Monks Bushy Brow Bald Cap
+Monks Shirt
+Monks Pants
+Apprentices Scarf
+Squires Shield
+Huntresss Buckler
+Monks Belt
+Defenders Forge
 War Table
 War Table Banner
 Eternia Crystal Stand
@@ -3834,7 +3833,7 @@ Sleepy Octopod
 Ghastly Glaive
 Etherian Goblin Bomber Banner
 Etherian Goblin Banner
-Old One's Skeleton Banner
+Old Ones Skeleton Banner
 Drakin Banner
 Kobold Glider Banner
 Kobold Banner
@@ -3847,7 +3846,7 @@ Phantom Phoenix
 Gato Egg
 Creeper Egg
 Dragon Egg
-Sky Dragon's Fury
+Sky Dragons Fury
 Aerial Bane
 Treasure Bag
 Betsy Mask
@@ -3856,21 +3855,21 @@ Ogre Mask
 Betsy Trophy
 Dark Mage Trophy
 Ogre Trophy
-Music Box (Old One's Army)
-Betsy's Wrath
-Valhalla Knight's Helm
-Valhalla Knight's Breastplate
-Valhalla Knight's Greaves
-Dark Artist's Hat
-Dark Artist's Robes
-Dark Artist's Leggings
+Music Box (Old Ones Army)
+Betsys Wrath
+Valhalla Knights Helm
+Valhalla Knights Breastplate
+Valhalla Knights Greaves
+Dark Artists Hat
+Dark Artists Robes
+Dark Artists Leggings
 Red Riding Hood
 Red Riding Dress
 Red Riding Leggings
-Shinobi Infiltrator's Helmet
-Shinobi Infiltrator's Torso
-Shinobi Infiltrator's Pants
-Betsy's Wings
+Shinobi Infiltrators Helmet
+Shinobi Infiltrators Torso
+Shinobi Infiltrators Pants
+Betsys Wings
 Crystal Chest
 Golden Chest
 Trapped Crystal Chest
@@ -3908,15 +3907,15 @@ Crystal Bookcase
 Crystal Sofa
 Dynasty Sofa
 Crystal Table
-Arkhalis' Hood
-Arkhalis' Bodice
-Arkhalis' Tights
-Arkhalis' Lightwings
-Leinfors' Hair Protector
-Leinfors' Excessive Style
-Leinfors' Fancypants
-Leinfors' Prehensile Cloak
-Leinfors' Luxury Shampoo
+Arkhalis Hood
+Arkhalis Bodice
+Arkhalis Tights
+Arkhalis Lightwings
+Leinfors Hair Protector
+Leinfors Excessive Style
+Leinfors Fancypants
+Leinfors Prehensile Cloak
+Leinfors Luxury Shampoo
 Celebration Mk2
 Spider Bathtub
 Spider Bed
@@ -3974,11 +3973,11 @@ Stockade Crate
 Azure Crate
 Divine Crate
 Bramble Crate
-Dead Man's Chest
+Dead Mans Chest
 Golf Ball
 Amphibian Boots
 Arcane Flower
-Berserker's Glove
+Berserkers Glove
 Fairy Boots
 Frog Flipper
 Frog Gear
@@ -3992,7 +3991,7 @@ Molten Quiver
 Molten Skull Rose
 Obsidian Skull Rose
 Recon Scope
-Stalker's Quiver
+Stalkers Quiver
 Stinger Necklace
 Ultrabright Helmet
 Apple
@@ -4021,7 +4020,7 @@ Roasted Bird
 Roasted Duck
 Sauteed Frog Legs
 Seafood Dinner
-Shrimp Po' Boy
+Shrimp Po Boy
 Spaghetti
 Steak
 Molten Charm
@@ -4247,7 +4246,7 @@ Orange Phaseblade
 Orange Phasesaber
 Orange Stained Glass
 Orange Pressure Plate
-Snake Charmer's Flute
+Snake Charmers Flute
 Magic Conch
 Golf Cart Keys
 Golf Chest
@@ -4306,8 +4305,8 @@ Haemorrhaxe
 Void Monolith
 Arrow Sign
 Painted Arrow Sign
-Master Gamer's Jacket
-Master Gamer's Pants
+Master Gamers Jacket
+Master Gamers Pants
 Star Princess Crown
 Star Princess Dress
 Chum Caster
@@ -4341,7 +4340,7 @@ Blue Moss
 Purple Moss
 Lava Moss
 Boulder Statue
-Music Box (Journey's Beginning)
+Music Box (Journeys Beginning)
 Music Box (Storm)
 Music Box (Graveyard)
 Seagull
@@ -4429,7 +4428,7 @@ Potted Jungle Bamboo
 Potted Hallow Bamboo
 Scarab Fishing Rod
 Demonic Hellcart
-Witch's Broom
+Witchs Broom
 Cluster Rocket I
 Cluster Rocket II
 Wet Rocket
@@ -4696,7 +4695,7 @@ Tragic Umbrella
 Victorian Goth Hat
 Victorian Goth Dress
 Tattered Wood Sign
-Gravedigger's Shovel
+Gravediggers Shovel
 Desert Chest
 Trapped Desert Chest
 Desert Key
@@ -4714,34 +4713,34 @@ Ghost Manifestation
 Wicked Undead
 Bloody Goblet
 Still Life
-Ghostar's Infinity Eight
+Ghostars Infinity Eight
 Terra Toilet
-Ghostar's Soul Jar
-Ghostar's Garb
-Ghostar's Tights
-Ball O' Fuse Wire
+Ghostars Soul Jar
+Ghostars Garb
+Ghostars Tights
+Ball O Fuse Wire
 Full Moon Squeaky Toy
 Ornate Shadow Key
 Dr. Man Fly Mask
-Dr. Man Fly's Lab Coat
+Dr. Man Flys Lab Coat
 Butcher Mask
-Butcher's Bloodstained Apron
-Butcher's Bloodstained Pants
+Butchers Bloodstained Apron
+Butchers Bloodstained Pants
 Football
 Hunter Cloak
 Coffin Minecart
-Safeman's Blanket Cape
-Safeman's Sunny Day
-Safeman's Sun Dress
-Safeman's Pink Leggings
-FoodBarbarian's Tattered Dragon Wings
-FoodBarbarian's Horned Helm
-FoodBarbarian's Wild Wolf Spaulders
-FoodBarbarian's Savage Greaves
-Grox The Great's Wings
-Grox The Great's Horned Cowl
-Grox The Great's Chestplate
-Grox The Great's Greaves
+Safemans Blanket Cape
+Safemans Sunny Day
+Safemans Sun Dress
+Safemans Pink Leggings
+FoodBarbarians Tattered Dragon Wings
+FoodBarbarians Horned Helm
+FoodBarbarians Wild Wolf Spaulders
+FoodBarbarians Savage Greaves
+Grox The Greats Wings
+Grox The Greats Horned Cowl
+Grox The Greats Chestplate
+Grox The Greats Greaves
 Blade Staff
 Squirrel Hook
 Sergeant United Shield
@@ -4780,7 +4779,7 @@ The Black Spot
 Hexxed Branch
 Toy Tank
 Goat Skull
-Dark Mage's Tome
+Dark Mages Tome
 Royal Delight
 Suspicious Grinning Eye
 Writhing Remains
@@ -4800,8 +4799,8 @@ Pumpkin Scented Candle
 Shrub Star
 Frozen Crown
 Cosmic Skateboard
-Ogre's Club
-Betsy's Egg
+Ogres Club
+Betsys Egg
 Combat Wrench
 Demon Conch
 Bottomless Lava Bucket
@@ -4977,7 +4976,7 @@ Soaring Insignia
 Music Box (Duke Fishron)
 Music Box (Morning Rain)
 Music Box (Alt Title)
-Chippy's Couch
+Chippys Couch
 Blue Graduation Cap
 Maroon Graduation Cap
 Black Graduation Cap
@@ -4988,10 +4987,10 @@ Terraspark Boots
 Moon Lord Legs
 Ocean Crate
 Seaside Crate
-Badger's Hat
+Badgers Hat
 Terraprisma
 Music Box (Underground Desert)
-Dead Man's Sweater
+Dead Mans Sweater
 Teapot
 Teacup
 Treasure Magnet
@@ -5026,17 +5025,17 @@ Otherworldly Music Box (Wall of Flesh)
 Otherworldly Music Box (Hallow)
 Carton of Milk
 Coffee
-Torch God's Favor
-Music Box (Journey's End)
-Plaguebringer's Skull
-Plaguebringer's Cloak
-Plaguebringer's Treads
+Torch Gods Favor
+Music Box (Journeys End)
+Plaguebringers Skull
+Plaguebringers Cloak
+Plaguebringers Treads
 Wandering Jingasa
 Wandering Yukata
 Wandering Geta
-Timeless Traveler's Hood
-Timeless Traveler's Cloak
-Timeless Traveler's Footwear
+Timeless Travelers Hood
+Timeless Travelers Cloak
+Timeless Travelers Footwear
 Floret Protector Helmet
 Floret Protector Shirt
 Floret Protector Pants
