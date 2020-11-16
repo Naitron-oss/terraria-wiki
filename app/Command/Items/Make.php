@@ -44,6 +44,7 @@ class Make extends Command
         foreach ($items as $key => $item) {
             $key += 1;
             $item = str_replace("'", '', $item);
+            $item = str_replace("/", '_', $item);
             $exclude = ['Fish'];
             if (!in_array($item, $exclude)) {
                 file_put_contents('./items.txt', "$item\n", FILE_APPEND);

@@ -4468,8 +4468,8 @@ Seahorse
 Seahorse Cage
 Gold Seahorse
 Gold Seahorse Cage
-1/2 Second Timer
-1/4 Second Timer
+1_2 Second Timer
+1_4 Second Timer
 Ebonstone Wall
 Mud Wall
 Pearlstone Wall
