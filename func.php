@@ -27,5 +27,6 @@ function handle_image($match) {
 function localify($input) {        
     $html = preg_replace_callback('/<img(.*?)alt="(.*?)"(.*?)>/', 'handle_image', $input);
     $html = preg_replace('/<sup .*?>(.*?)<\/sup>/', '', $html);
+    $html = preg_replace('/<s>(.*?)<\/s>/', '', $html);
     return preg_replace('/<a .*?>(.*?)<\/a>/', '$1', $html);
 }
