@@ -36,18 +36,36 @@ class Get extends Command
         $this->json['title'] = $text;
     }
 
-    public function getInfo(Crawler $crawler) : void
+    public function getInfo(Crawler $crawler, $pos = []) : void
     {
-        $main = $crawler->filter('#mw-content-text > div > p');
-        $alt = $crawler->filter('#mw-content-text > div > div > p');
-        
-        if ($main->count()) {
-            $this->json['info'] = $main->first()->html();
-        } else if ($alt->count()) {
-            $this->json['info'] = $alt->first()->html();
-        } else $this->json['info'] = '';
-        
-        $this->json['info'] = localify($this->json['info']);
+        if (count($pos)) {
+            $elements = $crawler->filter('#mw-content-text p')->each(function (Crawler $node, $i) {
+                return [
+                    'index' => $i,
+                    'html' => $node->outerHtml()
+                ];
+            });
+            
+            foreach ($elements as $el) {
+                if (in_array($el['index'], $pos)) {
+                    @$this->json['info'] .= localify($el['html']);
+                }
+            }
+    
+        } else {
+
+            $main = $crawler->filter('#mw-content-text > div > p');
+            $alt = $crawler->filter('#mw-content-text > div > div > p');
+            
+            if ($main->count()) {
+                $this->json['info'] = $main->first()->html();
+            } else if ($alt->count()) {
+                $this->json['info'] = $alt->first()->html();
+            } else $this->json['info'] = '';
+            
+            $this->json['info'] = localify($this->json['info']);
+
+        }
     }
 
     public function getStat(Crawler $crawler) : void
