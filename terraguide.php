@@ -44,4 +44,7 @@ $app->addCommands([
 // Check
 $app->add(new ItemsCheck());
 
+// Runner
+$app->add(new App\Command\Runner());
+
 $app->run();
