@@ -37,6 +37,7 @@ $app->addCommands([
   new App\Command\Items\FetchTorches(),
   new App\Command\Items\FetchChests(),
   new App\Command\Items\FetchStrings(),
+  new App\Command\Items\FetchCages(),
   new FetchSprite(),
 ]);
 

@@ -7,14 +7,14 @@ use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 
-class FetchStrings extends Command
+class FetchCages extends Command
 {
-    protected static $defaultName = 'fetch:strings';
+    protected static $defaultName = 'fetch:cages';
 
     public function configure()
     {
         $this
-        ->setDescription('Fetch data of strings type item');
+        ->setDescription('Fetch data of cages type item');
     }
 
     public function getLists() : array
@@ -24,7 +24,8 @@ class FetchStrings extends Command
         
         $list = [];
         foreach ($items as $item) {
-            if (strpos($item, 'String')) {
+            // posisi harus lebih dari 0++
+            if (strpos($item, 'Cage') > 1) {
                 $list[] = $item;
             }
         }
@@ -34,19 +35,19 @@ class FetchStrings extends Command
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        $get = new GetItems('Strings');
-        $crawler = $get->getCrawler('Strings');
+        $get = new GetItems('Cages');
+        $crawler = $get->getCrawler('Cages');
         $get->getTitle($crawler);
         $get->getInfo($crawler);
         $get->getStat($crawler);
         $headline = $get->getCraft($crawler, '.crafts');
-        $get->saveJson('_Strings');
+        $get->saveJson('_Cages');
 
         foreach ($this->getLists($output) as $item) {
             if ($item) {
                 $name = str_replace("'", '', $item);
                 $name = str_replace("/", '_', $name);
-                $get->json = ['refer' => '_Strings'];
+                $get->json = ['refer' => '_Cages'];
                 $get->saveJson($name);
                 $output->writeln("[<fg=green>Ok</>] $name.json ($headline)");
             }
